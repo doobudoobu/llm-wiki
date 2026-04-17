@@ -1,0 +1,120 @@
+---
+title: Wiki Index
+type: index
+updated: 2026-04-17
+---
+
+# Wiki Index
+
+Content catalog. Updated on every ingest. The LLM reads this first when answering queries.
+
+---
+
+## Core pages
+
+| Page | Summary |
+|------|---------|
+| [[overview]] | High-level sweep of Chinese dynastic history |
+| [[timeline]] | Chronological list of all dynasties and key events |
+
+---
+
+## Sources
+
+| Page | Summary |
+|------|---------|
+| [[src-keay-china-ch1-3]] | Keay, *China: A History* — chapters 1–3 (pre-history through Qin, 210 BC) |
+| [[src-keay-china-ch4-6]] | Keay, *China: A History* — chapters 4–6 (Han dynasty, 210 BC – AD 189) |
+| [[src-keay-china-ch7-9]] | Keay, *China: A History* — chapters 7–9 (Three Kingdoms through An Lushan rebellion, 189–755 CE) |
+| [[src-keay-china-ch10-12]] | Keay, *China: A History* — chapters 10–12 (Five Dynasties through Mongol conquest, 755–1405 CE) |
+| [[src-keay-china-ch13-14]] | Keay, *China: A History* — chapters 13–14 (Ming through early Qing, 1405–1760 CE) |
+| [[src-li-feng-ch5]] | Li Feng, *Early China* — ch. 5: oracle bones, Shang divination mechanics, non-royal bones, succession |
+| [[src-birrell-ch1-3]] | Birrell, *Chinese Mythology* — chs. 1–3: origins, culture bearers, saviors; P'an Ku, Nü Kua, Yi, Yü |
+| [[src-li-feng-ch1-4]] | Li Feng, *Early China* — chs. 1–4: historiography, Neolithic China, Erlitou/Erligang, Anyang and Bronze Age cultures |
+| [[src-tea-ch2]] | Benn, *Tea in China* — ch. 2: the real (not mythological) early history of tea; Lu Yu's invented origin myths; ghost stories |
+
+---
+
+## Dynasties
+
+| Page | Period | Summary |
+|------|--------|---------|
+| [[dynasty-xia]] | c. 2100–1600 BC | First dynasty; possibly legendary; ancestor of the "Three Dynasties" |
+| [[dynasty-shang]] | c. 1750–1040 BC | Oracle bones; bronze; Anyang; human sacrifice; earliest confirmed writing |
+| [[dynasty-zhou]] | c. 1045–256 BC | Longest dynasty; Mandate of Heaven; Confucius; Spring & Autumn; Warring States |
+| [[dynasty-qin]] | 221–206 BC | First empire; unification; standardizations; book burning; terracotta army |
+| [[dynasty-han]] | 206 BC–AD 220 | Four centuries; Silk Road; Confucian civil service; Wang Mang interregnum; Yellow Turbans |
+| [[dynasty-three-kingdoms]] | 189–280 CE | Wei/Shu/Wu; Battle of Red Cliffs; Cao Cao; Liu Bei; contested legitimacy; literary renaissance |
+| [[dynasty-jin]] | 266–420 CE | Brief reunification; War of the Eight Princes; fall of Luoyang (311); Sixteen Kingdoms; Eastern Jin rump |
+| [[dynasty-northern-southern]] | 304–589 CE | Parallel "Chinas"; Northern Wei sinicization; equal-field system; Dowager Empress Feng; Buddhism's golden age |
+| [[dynasty-sui]] | 581–618 CE | Reunification; Grand Canal; three failed Korea invasions; "intercalary dynasty"; collapsed like Qin |
+| [[dynasty-tang]] | 618–907 CE | Golden age; Chang'an the world's largest city; Wu Zetian; Taizong; Xuanzong; An Lushan rebellion; Li Bo and Du Fu |
+| [[dynasty-five-dynasties]] | 907–960 CE | Five dynasties in 53 years; Huang Chao; Feng Dao; printed Confucian classics; paper money invented; commercial revolution |
+| [[dynasty-xi-xia]] | 1038–1227 CE | Tangut Buddhist empire controlling the Gansu horse corridor; annihilated by Chinggis so thoroughly its script became unreadable |
+| [[dynasty-song]] | 960–1279 CE | Printing/gunpowder/compass in everyday use; Wang Anshi's sweeping reforms; Neo-Confucianism; Yue Fei; fall of Kaifeng 1127; Hangzhou as world's greatest city; 1279 last emperor into the sea |
+| [[dynasty-yuan]] | 1271–1368 CE | Mongol dynasty; six-year siege of Xiangfan; last Song emperor drowned 1279; Marco Polo; drama flourishes when exams suspended |
+| [[dynasty-ming]] | 1368–1644 CE | Last Han dynasty; Hongwu's terror; Yongle's Beijing and Zheng He; Tumu Incident; Great Rites Controversy; Wang Yangming; Great Wall; fell to peasant rebellion + Manchu |
+| [[dynasty-qing]] | 1644–1912 CE | Manchu conquest; queue order; Yangzhou massacre; Coxinga's loyalist sea empire; Three Emperors; Zunghar genocide; Macartney; Opium Wars; last emperor |
+
+---
+
+## Figures
+
+| Page | Dynasty | Summary |
+|------|---------|---------|
+| [[figure-confucius]] | Zhou (Spring & Autumn) | Philosopher; founder of Confucianism; failed in his time; transformed Chinese civilization |
+| [[figure-qin-shi-huangdi]] | Qin | First Emperor; unified China; paranoid; obsessed with immortality; buried with terracotta army |
+| [[figure-liu-bang]] | Han | Han Gaozu; first commoner emperor; won civil war against Xiang Yu; founded the Han dynasty |
+| [[figure-han-wudi]] | Han | "Martial Emperor"; 54-year reign; ended Xiongnu appeasement; opened the Silk Road via Zhang Qian |
+| [[figure-sima-qian]] | Han | Grand Historian; wrote the *Shiji* (130 chapters, 3,000 years); chose castration over suicide to finish it |
+| [[figure-wang-mang]] | Xin | Confucian idealist who briefly replaced the Han (AD 9–23); land reform, name-rectification, catastrophic flood |
+| [[figure-lady-hao]] | Shang | Senior consort of Wu Ding; military commander of 10,000+ soldiers; richest unlooted tomb at Anyang (468 bronzes, 755 jades) |
+| [[figure-nu-kua]] | Mythological | Goddess creatrix; made humans from yellow earth and mud; mended the broken sky |
+| [[figure-pan-ku]] | Mythological | Cosmic giant whose body became the universe; probably Central Asian import; became canonical in Han era |
+| [[figure-yi-archer]] | Mythological | Shot down nine of ten suns; killed six world-threatening monsters; wife stole his immortality and fled to the moon |
+| [[figure-yu-the-great]] | Mythological/Xia | Flood hero; controlled the flood in 10 years of total labor; body broken; founder of the Xia |
+| [[figure-wu-zetian]] | Tang | Only woman to rule China as emperor; fifty years in power; expanded the empire; slandered by historians |
+| [[figure-wang-anshi]] | Song | Chancellor under Song Shenzong; New Policies — "most ambitious reorganization between First Emperor and Communist Party"; won every argument, lost the political war |
+| [[figure-zheng-he]] | Ming | Yunnanese Muslim eunuch; commanded treasure fleets (ships 130m long) to India, Arabia, East Africa 1405–1433; then allowed to rot |
+
+---
+
+## Events
+
+| Page | Period | Summary |
+|------|--------|---------|
+| [[event-battle-red-cliffs]] | 208–209 CE | Fireships, a turning wind, and the battle that locked in China's three-way division for 60 years |
+| [[event-an-lushan-rebellion]] | 755–763 CE | The rebellion that shattered the Tang golden age; Yang Guifei's death; 30+ million dead; autonomous warlords forever |
+| [[event-mongol-conquest-song]] | 1267–1279 CE | Six-year siege of Xiangfan; Muslim trebuchets; Lu Xiufu straps the emperor to his back and jumps into the sea; 800-ship fleet follows |
+
+---
+
+## Places
+
+| Page | Summary |
+|------|---------|
+| *(none yet)* | |
+
+---
+
+## Concepts
+
+| Page | Summary |
+|------|---------|
+| [[concept-mandate-of-heaven]] | *Tian ming* — Heaven grants rule to the virtuous; withdraws it from the corrupt; justifies every dynastic change |
+| [[concept-oracle-bones]] | Shang divination on heated bones and shells; earliest Chinese writing; discovered in a Beijing pharmacy in 1899 |
+| [[concept-xiongnu]] | Nomadic steppe confederacy; primary Han-era threat; *heqin* tribute treaties; Maodun; split 51 BC; template for all later nomadic threats |
+| [[concept-neolithic-china]] | Neolithic cultures c. 7000–2000 BC: Cishan-Peiligang, Yangshao, Longshan, Taosi, Liangzhu |
+| [[concept-erlitou]] | First Chinese state c. 1900–1600 BC; Erligang expansion; the Xia debate; origin of bronze casting |
+| [[concept-tea-culture]] | Tea in Chinese history: real origins (Tang, not Shennong), the weird supernatural pre-history, Lu Yu's mythology |
+| [[concept-chinese-mythology]] | The mythological tradition: its sources, Confucian suppression, pantheon overview, why P'an Ku is probably not Chinese |
+| [[concept-buddhism-china]] | Buddhism's adoption in China: slow Han-era arrival → explosion under non-Han patronage → Tang golden age → 843 proscription |
+| [[concept-neo-confucianism]] | Zhu Xi's synthesis; Four Books; *lixue*; dominant intellectual framework from Song to Qing; Wang Yangming's rival "mind" school |
+
+---
+
+## Analyses & Comparisons
+
+| Page | Summary | Date |
+|------|---------|------|
+| *(none yet)* | | |

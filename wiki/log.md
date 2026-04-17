@@ -1,0 +1,160 @@
+# Wiki Log
+
+Append-only chronological record of all wiki operations.
+
+Parse with: `grep "^## \[" wiki/log.md | tail -10`
+
+---
+
+## [2026-04-16] init | Wiki initialized
+
+- Created directory structure: `raw/`, `wiki/`
+- Created `CLAUDE.md` with schema and conventions
+- Created `wiki/index.md` and `wiki/log.md`
+- Created `wiki/overview.md`
+- Wiki is empty — ready for first ingest
+
+## [2026-04-16] ingest | Keay, *China: A History* — Chapters 1–3 (pre-history to 210 BC)
+
+- Source: `raw/China_A_History_-_John_Keay.epub` → converted to `.txt` via Calibre
+- Chapters covered: 1 ("Rites to Writing," pre-c. 1050 BC), 2 ("Sages and Heroes," c. 1050–250 BC), 3 ("The First Empire," c. 250–210 BC)
+- Summary page: [[src-keay-china-ch1-3]]
+- Pages created: [[dynasty-xia]], [[dynasty-shang]], [[dynasty-zhou]], [[dynasty-qin]], [[figure-confucius]], [[figure-qin-shi-huangdi]], [[concept-mandate-of-heaven]], [[concept-oracle-bones]]
+- Pages updated: [[overview]], [[timeline]], [[index]]
+- Most interesting new details:
+  - The oracle bones were discovered in 1899 when a scholar noticed archaic writing on "dragon bones" being sold as malaria medicine in a Beijing pharmacy
+  - The Mandate of Heaven appears to be a Zhou invention — the Shang's oracle bones barely mention "Heaven" at all; their supreme deity was the personal Di
+  - The Tarim Mummies (Xinjiang, ~2000 BC): DNA-certified Caucasoid people in Celtic-weave tartan, politically explosive today as Uighur separatists use them to contest Beijing's historical claim to Xinjiang
+  - Sima Qian wrote extensively about the First Emperor's tomb but never mentioned the terracotta army — discovered by well-diggers in 1974
+  - The Stone Cattle Road story: Qin tricked the king of Shu into requesting a road (by staging fake gold-dunging stone cows), built it, then used it for invasion
+
+## [2026-04-16] ingest | Keay, *China: A History* — Chapters 4–6 (210 BC – AD 189)
+
+- Source: `raw/China_A_History_-_John_Keay.txt` (lines ~1466–2136)
+- Chapters covered: 4 ("The Han Succession," 210–141 BC), 5 ("Of Commanderies and Kingdoms," 141–87 BC), 6 ("Dynastic Decline and Usurpation," 87 BC–AD 189)
+- Summary page: [[src-keay-china-ch4-6]]
+- Pages created: [[dynasty-han]], [[figure-liu-bang]], [[figure-han-wudi]], [[figure-sima-qian]], [[figure-wang-mang]], [[concept-xiongnu]]
+- Pages updated: [[overview]], [[timeline]], [[index]]
+- Most interesting new details:
+  - Xiang Yu's last night: surrounded at Gaixia, sings a farewell song to his horse and his concubine, then rides into Han lines alone — considered one of the most dramatic exits in Chinese history
+  - Lady Dai's mummy (tomb sealed c. 168 BC): flesh still responsive to pressure after 2,100 years; 138 melon seeds in her stomach; finest silk in the ancient world in her burial clothes
+  - Sima Qian chose judicial castration over suicide specifically so he could finish the *Shiji* — "though I should suffer a thousand mutilations, what regret should I have?"
+  - Zhang Qian's journey west revealed that China was entirely unknown to Bactria and the states beyond — the "Middle Kingdom" was not remotely in the middle of anything
+  - Wang Mang's aviator: a man who strapped bird feathers to himself and "flew several hundred double-paces, then fell" — possibly the earliest authenticated account of human flight
+
+## [2026-04-16] ingest | Benn, *Tea in China* — Chapter 2 (early history of tea)
+
+- Source: `raw/teainchina.pdf` (PDF pp. 38–57, book pp. 21–41)
+- Summary page: [[src-tea-ch2]]
+- Pages created: [[concept-tea-culture]]
+- Pages updated: [[index]]
+- Most interesting details:
+  - The word *cha* (tea) didn't exist until the mid-Tang; before ~800 CE it was called *tu*, *ming*, *jia*, etc. — one stroke removed from the old character
+  - Shennong discovering tea is Lu Yu's invention (c. 760 CE); no pre-Tang source connects the two
+  - The earliest reliable tea reference: a courtier secretly replacing his emperor's wine with tea at banquets to avoid getting drunk (Three Kingdoms, ~3rd century CE)
+  - Pre-Tang anomaly literature around tea is delightfully strange: a 10-foot hairy mountain demon guarding wild tea plants; a ghost who keeps haunting his household asking for tea; an old woman who sells unlimited tea, gives the money to the poor, and flies out of prison using her tea container
+  - Tea as a mass cultural phenomenon spread in decades after ~760 CE, pushed by Buddhist monks as an alternative to alcohol
+
+## [2026-04-16] ingest | Li Feng, *Early China* — Chapters 1–4 (Neolithic through Anyang)
+
+- Source: `raw/early_china_li_feng.pdf` (PDF pp. 24–112, book pp. 1–89)
+- Chapters covered: 1 (introduction/historiography), 2 (Neolithic complex society), 3 (Erlitou and Erligang), 4 (Anyang and Bronze Age cultures)
+- Summary page: [[src-li-feng-ch1-4]]
+- Pages created: [[concept-neolithic-china]], [[concept-erlitou]], [[figure-lady-hao]]
+- Pages updated: [[dynasty-xia]] (Erlitou debate, Bingong xu), [[dynasty-shang]] (Anyang layout, Huanbei city, Lady Hao numbers, Mother Wu cauldron, industrial scale), [[overview]], [[timeline]], [[index]]
+- Most interesting new details:
+  - Taosi solar observatory (discovered 2003, c. 2600–2100 BC): one of the oldest confirmed solar observatories in the world; 13 pillars, 12 slits; possibly the context that first demanded a writing system to track calendar sections
+  - Erlitou's building orientation (6–10° west of north) vs. Yanshi/Shang (7° east of north): an astronomical shift that almost certainly marks the cosmological break between Erlitou culture and the Shang
+  - Huanbei Shang City (discovered 1999, north of Huan River): an entire pre-oracle-bone Shang city hidden on the Anyang periphery, solving the mystery of where the first three Anyang kings' records were; establishes the "Middle Shang" period
+  - Lady Hao commanded armies of 10,000+ soldiers; her unlooted tomb (468 bronzes, 755 jades) is the richest excavated at Anyang — and it was not a royal tomb
+  - Mother Wu ding-cauldron: 875 kg, 1.33 m high, required 1,000+ simultaneous artisans — the largest bronze vessel in the world
+  - Sanxingdui (Sichuan): contemporary with late Shang, completely independent religious system; life-size bronze human statue (172 cm) is the only complete life-size Bronze Age human bronze in China
+  - Lajia earthquake site (~4000 BP): oldest noodle in China found under a fallen bowl; mothers died protecting children
+
+## [2026-04-16] ingest | Birrell, *Chinese Mythology* — Chapters 1–3 (Origins, Culture Bearers, Saviors)
+
+- Source: `raw/Anne-Birrell-Chinese-Mythology_-An-Introduction-Johns-Hopkins-University-Press-1993.pdf` (PDF pp. 39–105, book pp. 23–88)
+- Chapters covered: 1 ("Origins"), 2 ("Culture Bearers"), 3 ("Saviors")
+- Summary page: [[src-birrell-ch1-3]]
+- Pages created: [[concept-chinese-mythology]], [[figure-nu-kua]], [[figure-pan-ku]], [[figure-yi-archer]], [[figure-yu-the-great]]
+- Pages updated: [[overview]], [[index]]
+- Most interesting new details:
+  - P'an Ku (China's "canonical" creation myth) only appears in 3rd-century AD texts and is probably borrowed from Central Asia — Nü Kua is six centuries older. The Han era's male-dominant rationalization is what made P'an Ku orthodox.
+  - Nü Kua made aristocrats from yellow earth and commoners by dragging a cord through mud — social stratification literally built into creation
+  - Master Yen built a functional android (leather, wood, lacquer) that sang, danced, and winked at palace ladies; the king nearly had him executed before he tore it apart to prove it was artificial
+  - Yü the Great worked the flood for ten years so totally that his body broke: no nails, no leg hair, one side shriveled, he couldn't lift one leg past the other — the "Yü walk" became a real shamanic ritual dance
+  - T'ang the Conqueror (Shang founder) cut his hair and fingernails, purified himself, and lay on a pyre to sacrifice himself to Heaven to end a seven-year drought; rain fell before the fire took
+  - The "virgin brides" story: the annual drowning of two virgins as river-god brides may have been a real local custom for disposing of unwanted daughters — families received huge cash compensation
+
+## [2026-04-16] ingest | Wikipedia, *Dynasties of China* — legitimacy disputes + dynasty stubs
+
+- Source: `raw/Dynasties of China.md`
+- Pages updated: [[concept-mandate-of-heaven]] (added "The legitimacy wars" section: Three Kingdoms debate, Northern/Southern Dynasties mutual barbarian insults, Qing–Southern Ming split, Japan claiming to be China's true heir)
+- Pages created: [[dynasty-three-kingdoms]], [[dynasty-jin]], [[dynasty-northern-southern]], [[dynasty-sui]], [[dynasty-tang]], [[dynasty-five-dynasties]], [[dynasty-song]], [[dynasty-yuan]], [[dynasty-ming]], [[dynasty-qing]] (all stubs — to be expanded with full sources)
+- Pages updated: [[index]]
+- Most interesting new details:
+  - The Northern/Southern Dynasties called each other "island barbarians" and "barbarians with braids" — both sides equally convinced the other was the uncivilized one
+  - Japan's Tokugawa shogunate refused to recognize Qing legitimacy and declared itself the rightful heir of Chinese civilization after the Ming fell
+  - Ouyang Xiu's elegant solution to the legitimacy problem during fragmented eras: orthodoxy doesn't reside anywhere — it enters "a state of limbo" and waits for reunification
+
+## [2026-04-16] ingest | Li Feng, *Early China* — Chapter 5 (oracle bones and late Shang)
+
+- Source: `raw/early_china_li_feng.pdf` (pp. 90–111, PDF pages 113–135)
+- Chapter: 5 — "Cracking the secret bones: literacy and society in late Shang"
+- Summary page: [[src-li-feng-ch5]]
+- Pages updated: [[concept-oracle-bones]] (major expansion), [[dynasty-shang]] (hegemonic state model, succession section)
+- Pages updated (index): [[index]]
+- Most interesting new details:
+  - Full divination mechanics: four-part inscription structure (preface, charge, prognostication, verification); the crack is produced by a heated metal stick; the king examines the crack, not the diviner; verifications appear in only 1.2% of inscriptions
+  - Non-royal oracle bones discovered 1991 at Huayuanzhuang-east, 300m from the palace — belonging to a prince, following entirely different conventions; divination was "a highly secret proceeding" even within Anyang
+  - The Shang High God (*di*) may be the celestial Northern Pole — the character *di* derived from the surrounding star formation; two kings eventually took the title themselves (Di Yi, Di Xin)
+  - Shang succession rule (brothers before sons) held for ~12 generations then broken by powerful kings; primogeniture established by repeated violation, not decree
+  - The Shang was a "hegemonic not legitimate" state — no fixed perimeter, no permanent administration, maintained entirely by the king's continuous military display
+
+## [2026-04-17] ingest | Keay, *China: A History* — Chapters 10–12 (755–1405 CE)
+
+- Source: `raw/China_A_History_-_John_Keay.txt` (lines ~3013–3511)
+- Chapters covered: 10 ("Disorder Restored," 755–1005), 11 ("Civilization Gridlock," 1005–1235), 12 ("All Under Yuan," 1235–1405)
+- Summary page: [[src-keay-china-ch10-12]]
+- Pages updated: [[dynasty-five-dynasties]], [[dynasty-song]], [[dynasty-yuan]], [[timeline]], [[index]]
+- Pages created: [[dynasty-xi-xia]], [[concept-neo-confucianism]], [[event-mongol-conquest-song]], [[figure-wang-anshi]]
+- Most interesting new details:
+  - Huang Chao's final exit in 884: after sacking Chang'an, he had his concubines killed then rode north alone into the dawn with two servants — consciously echoing Xiang Yu at Gaixia a thousand years earlier
+  - Feng Dao served nine emperors across all five dynasties (and two Liao emperors) without apparent loss of rank; supervised the first complete printed Confucian classics in 953; later historians condemned him savagely, but his own defense was that he served the people not the emperor
+  - Wang Anshi's New Policies: low-interest state loans to cut usurers (who charged 100%), state granaries, corvée commutation — "most ambitious reorganization between the First Emperor and the Communist Party" (Keay); reversed the year after his patron Song Shenzong died; Wang Anshi died the following year
+  - Foot-binding: rare before 1086, apparently universal among Han women by 1100; persisted 800 years; non-Han ruling dynasties (Jurchen, Mongol, Manchu) shunned it throughout, using it to distinguish themselves from Han subjects
+  - The siege of Xiangfan (1267–73): six years; Colonel Chang's hundred-ship paddle-wheel relief attempt; ultimately broken by Muslim trebuchets imported from Persia, capable of hurling 150 kg stones
+  - Lu Xiufu strapped the seven-year-old Song emperor to his back and jumped into the sea at the Battle of Yamen (1279); the 800-ship fleet followed
+  - The Xi Xia ("Great State of White and High"): a sophisticated Tangut Buddhist empire controlling the Gansu horse corridor, annihilated by Chinggis so completely that their script was not deciphered until the 20th century
+
+## [2026-04-17] ingest | Keay, *China: A History* — Chapters 13–14 (1405–1760 CE)
+
+- Source: `raw/China_A_History_-_John_Keay.txt` (lines ~3598–4172)
+- Chapters covered: 13 ("The Rites of Ming," 1405–1620), 14 ("The Manchu Conquest," 1620–1760)
+- Summary page: [[src-keay-china-ch13-14]]
+- Pages updated: [[dynasty-ming]], [[dynasty-qing]], [[timeline]], [[index]]
+- Pages created: [[src-keay-china-ch13-14]], [[figure-zheng-he]]
+- Note: This completes Keay ingestion. Chapters 15–16 (1760–1950) judged outside the wiki's dynastic scope.
+- Most interesting new details:
+  - Zheng He's treasure ships were over 130m long — five times the length of Columbus's *Santa María*; 27,000 men; reached East Africa 70 years before Vasco da Gama rounded the Cape; abandoned because they were ritual, not commercial, enterprise: "more money, power, and ceremony applied in the same old way was simply bound to fail"
+  - The Tumu Incident (1449): the Zhengtong Emperor's 500,000-man army collapses in 28 days of incompetence; the emperor sits on the ground among his dead guards and is found by a Mongol prince who suspected he was "someone special"
+  - The last Ming emperor climbed Coal Hill after midnight on 25 April 1644 with only an old eunuch, looked at the fires in the suburbs, and hanged himself from a crossbeam in the Hat and Girdle Department
+  - Zheng Chenggong (Coxinga): half-Japanese Ming loyalist who controlled the entire China coast from Guangdong to Zhejiang; expelled the Dutch from Taiwan in 1661; died in his thirties convulsed with grief when news arrived that the last Ming pretender had been strangled; simultaneously worshipped by the KMT, communists, and Japanese
+  - The Zunghar genocide: 600,000 Zunghars in Xinjiang — 40% killed by smallpox (deployed as a weapon), 30% by Qing armies, 20% fled; "Zungharia was left as a blank social space"; one authority calls it "the final solution"
+  - The Macartney Mission (1793): the Qianlong Emperor's dismissal letter to George III: "we have no need of your manufactures"; Macartney accurately predicted the empire was "an old, crazy, First-rate man-of-war" drifting toward catastrophe
+
+## [2026-04-17] ingest | Keay, *China: A History* — Chapters 7–9 (189–755 CE)
+
+- Source: `raw/China_A_History_-_John_Keay.txt` (lines ~2129–3013)
+- Chapters covered: 7 ("Four Hundred Years of Vicissitude," 189–550), 8 ("Sui, Tang and the Second Empire," 550–650), 9 ("High Tang," 650–755)
+- Summary page: [[src-keay-china-ch7-9]]
+- Pages updated: [[dynasty-three-kingdoms]], [[dynasty-jin]], [[dynasty-northern-southern]], [[dynasty-sui]], [[dynasty-tang]], [[timeline]], [[index]]
+- Pages created: [[event-battle-red-cliffs]], [[event-an-lushan-rebellion]], [[figure-wu-zetian]], [[concept-buddhism-china]]
+- Most interesting new details:
+  - The Nanai Vandak letter (313 CE): a Sogdian merchant's letter home to Samarkand, found 1,600 years later in an abandoned postbag at Dunhuang, saying "Luoyang is no more... these Xiongnu who yesterday had been the Emperor's property!" — one of history's most vivid eyewitness documents of imperial collapse
+  - Fotudeng converts Shi Le by conjuring a blue lotus from a begging bowl; Shi Hu later explains his Buddhism with unusual clarity: "Buddha, being a foreign god, is the very one we outsiders should worship" — non-Han rulers found Buddhism genuinely useful for legitimacy
+  - The "intercalary dynasty" concept: Keay's framework for understanding the Sui as a necessary, traumatic correction between chaos and Tang glory, consciously parallel to Qin before Han
+  - Grand Canal: "one of the grandest navigation systems ever undertaken by a single sovereign in pre-modern history" — 2,500 km, still in use today, 21st-century plans to reroute Yangzi water to Beijing through it
+  - Wu Zetian's fall: at 80-something, confronted by ministers after pardoning her favorites one too many times; last act was to address her trembling son "in terms of contempt," then return to bed
+  - "A poor Persian" listed as the number-one anomaly in a Tang literary parlor game — Chang'an's Persians financed the silk trade in silver coin preferred to debased copper cash
+  - Yang Guifei strangled with silk on the road to Sichuan, the emperor watching powerlessly as his escort mutinied — the origin of one of China's great tragic love stories

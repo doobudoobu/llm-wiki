@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9abd4435be07c86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "076549d78ec38ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc904f029a8d825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66f1cec141950e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a97b4e090a107d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1e5df4e8a0b35f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "809a75b7a231f5d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed5fd64aa418665d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "9a81b01128b3110a",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb9b21ce16948c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d52c1bf4a614f29b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "figure-yi-archer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for figure-yi-archer"
+            }
+          },
+          {
+            "id": "788d30c44bd7948d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "figure-yi-archer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from figure-yi-archer"
+            }
+          },
+          {
+            "id": "7a18a566e95bf0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5eff24b6e663b918",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cb76c2e4d1145371",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "figure-yi-archer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of figure-yi-archer"
+            }
+          },
+          {
+            "id": "a2e782c09fba935d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "figure-yi-archer.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for figure-yi-archer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bcc904f029a8d825",
+  "lastOpenFiles": [
+    "concept-erlitou.md",
+    "concept-chinese-mythology.md",
+    "concept-tea-culture.md",
+    "figure-liu-bang.md",
+    "figure-yi-archer.md",
+    "dynasty-han.md",
+    "log.md.tmp.22094.1776381991358",
+    "index.md.tmp.22094.1776381970464",
+    "index.md.tmp.22094.1776381961339",
+    "index.md.tmp.22094.1776381950173",
+    "overview.md.tmp.22094.1776381942710",
+    "overview.md.tmp.22094.1776381922172",
+    "figure-yu-the-great.md",
+    "figure-yu-the-great.md.tmp.22094.1776381906681",
+    "figure-yi-archer.md.tmp.22094.1776381871130",
+    "dynasty-qin.md",
+    "figure-pan-ku.md",
+    "figure-pan-ku.md.tmp.22094.1776381842884",
+    "src-keay-china-ch1-3.md",
+    "figure-nu-kua.md",
+    "figure-nu-kua.md.tmp.22094.1776381816134",
+    "concept-oracle-bones.md",
+    "index.md",
+    "src-birrell-ch1-3.md",
+    "dynasty-northern-southern.md",
+    "log.md",
+    "timeline.md",
+    "dynasty-sui.md",
+    "dynasty-qing.md",
+    "dynasty-ming.md",
+    "dynasty-yuan.md",
+    "dynasty-song.md",
+    "dynasty-five-dynasties.md",
+    "dynasty-tang.md",
+    "dynasty-jin.md",
+    "dynasty-three-kingdoms.md"
+  ]
+}
