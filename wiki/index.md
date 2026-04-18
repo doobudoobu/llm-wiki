@@ -8,9 +8,11 @@ updated: 2026-04-18
 
 Content catalog. Updated on every ingest. The LLM reads this first when answering queries.
 
+**Domains:** Chinese History & Mythology · Philosophy · Religion · Anthropology · Linguistics
+
 ---
 
-## Core pages
+## Core pages (Chinese history)
 
 | Page | Summary |
 |------|---------|
@@ -19,7 +21,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 ---
 
-## Sources
+## Sources (Chinese history & mythology)
 
 | Page | Summary |
 |------|---------|
@@ -134,3 +136,51 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | Page | Summary | Date |
 |------|---------|------|
 | *(none yet)* | | |
+
+---
+
+## Philosophy
+
+### Sources
+
+| Page | Summary |
+|------|---------|
+| [[src-spinoza-ethics-p1]] | Spinoza, *Ethics* Part I: one substance = God = Nature; substance/attribute/mode; why teleology is the error of errors |
+
+### Thinkers
+
+| Page | Summary |
+|------|---------|
+| [[figure-spinoza]] | Baruch Spinoza (1632–1677): pantheist, determinist; excommunicated at 23; "God or Nature" |
+
+### Concepts
+
+| Page | Summary |
+|------|---------|
+| *(none yet — see source page for substance/attribute/mode)* | |
+
+---
+
+## Religion
+
+*(See also: [[concept-buddhism-china]], [[concept-neo-confucianism]], [[concept-queen-mother-west]] under Chinese history)*
+
+| Page | Summary |
+|------|---------|
+| *(none yet)* | |
+
+---
+
+## Anthropology
+
+| Page | Summary |
+|------|---------|
+| *(none yet)* | |
+
+---
+
+## Linguistics
+
+| Page | Summary |
+|------|---------|
+| *(none yet)* | |

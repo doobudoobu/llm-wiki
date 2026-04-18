@@ -213,6 +213,19 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - Pages updated: [[figure-yi-archer]] (river god, Fu-fei theft, peach-wood death by Feng Meng), [[dynasty-xia]] (King Chieh mythology), [[dynasty-shang]] (founding birth myth, King Kai cattle raid, King Chou's rise and fall)
 - Most interesting new details: Kung Kung breaking Pu-chou Mountain is the cosmological explanation for why the sun moves west and rivers flow southeast. Yi Yin's mother turned into a mulberry tree when she looked back at the flood — the greatest minister in Chinese history was born from dead wood. King Chou of the Shang starts as "attractive, intelligent, heroic" in Ssu-ma Ch'ien's telling — the last-bad-ruler myth is more interesting when it's a tragedy, not a caricature. And peach wood became apotropaic because Feng Meng used it to kill the best archer in the world.
 
+## [2026-04-18] ingest | Spinoza, *Ethics* Part I (Concerning God)
+- Summary page: [[src-spinoza-ethics-p1]]
+- New pages: [[figure-spinoza]]
+- Secondary source used: Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide*
+- Pages updated: [[index]]
+- Most interesting details: Spinoza uses Descartes' own definitions against him — he accepts the standard definition of "substance" and shows it leads necessarily to ONE substance, not many. The Appendix is a furious attack on teleological thinking: "good," "bad," "beautiful," "ugly," "order," "chaos" are not features of reality but projections of human psychology. The "sanctuary of ignorance" = God's will, where people flee when they run out of causal explanations. Spinoza's God has no personality, no free will, no purposes, no particular concern for humans — it is simply being itself. His contemporaries called him an atheist; Novalis called him "the God-intoxicated man."
+
+## [2026-04-18] restructure | Wiki expanded to multi-domain knowledge base
+- CLAUDE.md rewritten: scope expanded from Chinese history to philosophy, religion, anthropology, linguistics
+- Added `domain` frontmatter field; added domain-specific ingest guidance for philosophy, religion, anthropology, linguistics
+- `wiki/index.md` reorganized with domain sections; new empty sections for Philosophy, Religion, Anthropology, Linguistics
+- Spinoza's *Ethics* queued for ingestion as first philosophy source
+
 ## [2026-04-18] ingest | Tao Tao Liu, *The Chinese Myths* — Chapters 1–2 (Brief History; Literary Traditions)
 - Summary page: [[src-tao-liu-ch1-2]]
 - Pages updated: [[concept-chinese-mythology]] (shenhua etymology; Shan Hai Jing as map captions; Sima Qian's admission; mythology in modern China), [[concept-buddhism-china]] (Guanyin's gender transition: Tang moustache → Ming baby-holder), [[index]]

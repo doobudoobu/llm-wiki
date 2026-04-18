@@ -32,7 +32,10 @@
       "Bash(awk 'NR>=660 && NR<=670 {print NR\": \"$0}')",
       "Bash(awk 'NR>=1 && NR<=663')",
       "Bash(awk 'NR>=664 && NR<=859' /tmp/tao-ch1.txt)",
-      "Bash(awk 'NR>=664 && NR<=859')"
+      "Bash(awk 'NR>=664 && NR<=859')",
+      "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/[Beth_Lord]_Spinoza_'s_Ethics.pdf\" -)",
+      "Bash(awk 'NR>=680 && NR<=1379')",
+      "Bash(awk 'NR>=1936 && NR<=3265')"
     ]
   }
 }
