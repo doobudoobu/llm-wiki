@@ -191,3 +191,46 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
   - Tea is completely absent from pre-Tang poetry — Jiaoran and Lu Tong invented the vocabulary of tea mysticism from nothing in the mid-Tang
   - Bai Juyi wrote about tea without any spiritual framing, showing everyone else's mystical vocabulary was a deliberate choice
   - An Lushan rebellion may have done more to reduce Tang alcohol consumption than any Buddhist temperance movement
+
+## [2026-04-17] ingest | Benn, *Tea in China* — Chapters 6 and 8 (Song and Ming tea)
+
+- Source: `raw/teainchina.pdf` (PDF pp. 131–144, 186–212; book pp. 117–144, 172–197)
+- Chapters covered: 6 ("Tea in the Song Dynasty"), 8 ("Religion and Culture in the Tea Economy of Late Imperial China")
+- Summary page: [[src-tea-ch6-8]]
+- Pages updated: [[concept-tea-culture]] (major expansion: Song cake tea, diancha, "Go drink tea," monastic ceremonies; Ming tea revolution, Yixing ware, five famous teas, Xu Cishu's list, water connoisseurship, Japan split)
+- Pages updated (index): [[index]]
+- Most interesting new details:
+  - Emperor Huizong wrote the finest Song tea manual with expert precision — then was captured by the Jurchen in 1127 and died in captivity. Most knowledgeable tea emperor; worst fate.
+  - Ming Taizu's 1391 edict abolishing cake tea accidentally created modern tea: leaf tea, teapots, multiple steepings. A peasant emperor's practical impatience transformed the entire tradition.
+  - Xu Cishu's list of appropriate occasions: "as drunken guests disperse," "when the children have left the building," "in light cloud and drizzle" — the most human document in tea literature
+  - Yuan Hongdao's servants secretly replaced thirty jars of famous springwater with ordinary mountain water; his friends praised it; he was furious when he found out
+  - Monk Dafang invented Songluo tea by transplanting Huqiu monastery's pan-firing technique to a different mountain — monastic knowledge transfer as the engine of tea innovation
+  - Japan preserved Song diancha (whisked powdered tea) because Eisai visited in 1168–1191, before the Ming revolution. This is why matcha looks like it does.
+
+## [2026-04-18] ingest | Birrell, *Chinese Mythology* — Chapters 4–5 (Destroyers, Miraculous Birth)
+- Summary page: [[src-birrell-ch4-5]]
+- New pages: [[figure-kung-kung]], [[figure-yi-yin]]
+- Pages updated: [[figure-yi-archer]] (river god, Fu-fei theft, peach-wood death by Feng Meng), [[dynasty-xia]] (King Chieh mythology), [[dynasty-shang]] (founding birth myth, King Kai cattle raid, King Chou's rise and fall)
+- Most interesting new details: Kung Kung breaking Pu-chou Mountain is the cosmological explanation for why the sun moves west and rivers flow southeast. Yi Yin's mother turned into a mulberry tree when she looked back at the flood — the greatest minister in Chinese history was born from dead wood. King Chou of the Shang starts as "attractive, intelligent, heroic" in Ssu-ma Ch'ien's telling — the last-bad-ruler myth is more interesting when it's a tragedy, not a caricature. And peach wood became apotropaic because Feng Meng used it to kill the best archer in the world.
+
+## [2026-04-18] ingest | Tao Tao Liu, *The Chinese Myths* — Chapters 1–2 (Brief History; Literary Traditions)
+- Summary page: [[src-tao-liu-ch1-2]]
+- Pages updated: [[concept-chinese-mythology]] (shenhua etymology; Shan Hai Jing as map captions; Sima Qian's admission; mythology in modern China), [[concept-buddhism-china]] (Guanyin's gender transition: Tang moustache → Ming baby-holder), [[index]]
+- Most interesting new details: The Chinese word for mythology (*shenhua*) was borrowed from the West via Japan in the 20th century — China had no native concept of "myths" as a category. The *Shan Hai Jing* is map captions: the surviving text annotated a set of geographical maps that are now lost, which explains why it reads like a catalogue. China's Mars rover is named Zhurong (God of Fire); the lunar missions are named Chang'e. Guanyin was visibly male in Tang Dunhuang paintings (moustache) and became unmistakably female by Ming porcelain. The "Epic of Darkness" (*Hei An Zhuan*) — a Tang-dynasty oral epic only performed at funerals — was still alive in manuscript form when an old farmer in Shennongjia gave a copy to a researcher in 1982.
+
+## [2026-04-18] ingest | Birrell, *Chinese Mythology* — Chapter 12 (Love)
+- Summary page: [[src-birrell-ch12]]
+- Pages updated: [[index]]
+- Most interesting new details: The Sky Voyager myth — a man rides a raft to Sky River and meets the Weaver Maid's oxherd, and when he gets home the astronomer Yen Chün-p'ing tells him his arrival registered as "a stranger star trespassing into the Draught Ox constellation." A mortal's trip to heaven left a trace in the stars. Han P'ing's wife deliberately rots her clothes before throwing herself from a tower so the prince's guards can't catch her — they grab the rags and she falls free. Their graves grow two catalpa trees that bend toward each other, roots entwined below, boughs embraced above. The chapter opens with a censorship thesis: Han officials "corrected" the Classic of Mountains and Seas in 6 BC, and there is no Aphrodite, no Eros, and no Zeus in the Chinese tradition as a result.
+
+## [2026-04-18] ingest | Birrell, *Chinese Mythology* — Chapters 9–11 (Goddesses, Immortality, Metamorphoses)
+- Summary page: [[src-birrell-ch9-11]]
+- New pages: [[concept-queen-mother-west]]
+- Pages updated: [[figure-nu-kua]] (Han-era demotion: silent achievement, Karlgren/Schafer, Fu Hsi consort pairing), [[index]]
+- Most interesting new details: The original *Classic of Poetry* Weaver Maid poem has zero romantic content — both Weaver Maid and Draught Ox are images of futile, unfinished labor. Six hundred years of romantic elaboration on top of a poem about uselessness. The Queen Mother of the West begins with tiger fangs and panther tail administering divine executions; she ends pouring wine at a garden party. The silkworm myth: a girl breaks a promise to her horse, mocks its dead skin, and gets wrapped in it and transformed — the origin of the entire Chinese silk industry, and "mulberry" (*sang* 桑) puns on "mourning" (*sang* 喪). P'eng-tsu, the Chinese Methuselah, refuses to reveal his secret of 767-year-long life because longevity "has broken my good humor in my guts." He disappears heading west. Last seen seventy years later.
+
+## [2026-04-18] ingest | Birrell, *Chinese Mythology* — Chapters 6–8 (Yellow Emperor, Yi Archer cycle, Yü the Great cycle)
+- Summary page: [[src-birrell-ch6-8]]
+- New pages: [[figure-yellow-emperor]]
+- Pages updated: [[figure-yu-the-great]] (warrior aspects: Fang-feng, Hsiang Liu, Wu-chih-ch'i/Sun Wukong; Nine Cauldrons; world measuring), [[figure-yi-archer]] (Wu Kang on the moon; the moon's full cast of immortality-seekers)
+- Most interesting new details: Wu-chih-ch'i — the chained ape monster who caused typhoons on the Huai River — is Sun Wukong's direct ancestor, six centuries before Journey to the West. The Yellow Emperor's mythology is a textbook case of progressive domestication: from beast-armies and killed gods to Chuang Tzu's sock puppet who learns wisdom from Taoists. And the moon in Chinese mythology is populated entirely by people who wanted to live forever and got trapped there.

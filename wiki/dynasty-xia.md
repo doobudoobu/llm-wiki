@@ -60,6 +60,23 @@ One Longshan site, **Erlitou**, has yielded both burnt divination bones and some
 
 ---
 
+## The fall: King Chieh (桀)
+
+Chinese mythology has given every dynasty a "last bad ruler" who personifies everything wrong with a fallen house. For the Xia, that figure is **King Chieh** — and the classical texts compete to make him as theatrical as possible.
+
+His crimes accumulate across the sources:
+- 30,000 female singers assembled for day-long concerts
+- Lovers' names carved into precious jade
+- Tigers released into the marketplace to watch the crowd run
+- Men made to freeze to death; women to drown — for his entertainment
+- His cast-off favorite Mo Hsi, "discarded on Lo River," switched sides and helped his enemies
+
+The end was presaged by a solar omen: two suns appearing simultaneously in the sky — one rising in the east (Shang), one fading in the west (Hsia). When asked which sun meant which dynasty, the answer was clear: the western one was dying. A member of Chieh's own clan defected to the Shang that day.
+
+Chieh himself understood his doom and responded with grandiose nihilism: *"When that sun dies, you and I, we'll all perish!"* — comparing himself to the sun, defying Heaven itself.
+
+The instrument of his fall was [[figure-yi-yin]], who posed as a Hsia ally while acting as a double agent for T'ang of the Shang. Yi Yin's co-conspirator was Mo Hsi, Chieh's own discarded concubine. The Hsia was brought down from within.
+
 ## Legacy
 
 The Xia matter most as a conceptual anchor. Whether or not they existed exactly as described, the idea of the Xia — a virtuous founding dynasty on the Central Plain — gave subsequent rulers something to legitimate themselves against. Confucius invoked them. The First Emperor implicitly competed with them. Every dynasty that followed reached back to the Three Dynasties as moral bedrock.
@@ -72,3 +89,5 @@ The Xia matter most as a conceptual anchor. Whether or not they existed exactly 
 - [[concept-mandate-of-heaven]] — the doctrine that explained dynastic succession
 - [[concept-oracle-bones]] — the Shang practice that connects to Erlitou's burnt bones
 - [[overview]] — the big picture
+- [[figure-yi-yin]] — the double agent who brought down Chieh
+- [[src-birrell-ch4-5]] — myth sources for King Chieh's fall

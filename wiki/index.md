@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 type: index
-updated: 2026-04-17
+updated: 2026-04-18
 ---
 
 # Wiki Index
@@ -31,9 +31,15 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[src-li-feng-ch5]] | Li Feng, *Early China* — ch. 5: oracle bones, Shang divination mechanics, non-royal bones, succession |
 | [[src-li-feng-ch6-7]] | Li Feng, *Early China* — chs. 6–7: Western Zhou conquest, *fengjian* system, bronze inscriptions, bureaucracy, Mandate of Heaven anxiety, fall of Western Zhou |
 | [[src-birrell-ch1-3]] | Birrell, *Chinese Mythology* — chs. 1–3: origins, culture bearers, saviors; P'an Ku, Nü Kua, Yi, Yü |
+| [[src-birrell-ch4-5]] | Birrell, *Chinese Mythology* — chs. 4–5: destroyers (Kung Kung, Yi's dark side, King Chieh/Chou); miraculous births |
+| [[src-birrell-ch6-8]] | Birrell, *Chinese Mythology* — chs. 6–8: Yellow Emperor's wars; Yi moon mythology; Yü as warrior; Nine Cauldrons; Sun Wukong's origin |
 | [[src-li-feng-ch1-4]] | Li Feng, *Early China* — chs. 1–4: historiography, Neolithic China, Erlitou/Erligang, Anyang and Bronze Age cultures |
 | [[src-tea-ch2]] | Benn, *Tea in China* — ch. 2: the real (not mythological) early history of tea; Lu Yu's invented origin myths; ghost stories |
 | [[src-tea-ch3-5]] | Benn, *Tea in China* — chs. 3–5: Buddhism and tea; Tang tea poetry (Jiaoran, Lu Tong's Seven Cups, Li Bai); Lu Yu's life and *Chajing* |
+| [[src-tea-ch6-8]] | Benn, *Tea in China* — chs. 6 & 8: Song cake tea; Huizong; *diancha*; "Go drink tea"; Ming tea revolution; Yixing ware; five famous teas; Xu Cishu's list |
+| [[src-birrell-ch9-11]] | Birrell, *Chinese Mythology* — chs. 9–11: Goddesses (Nü Kua's demotion, Weaver Maid origin, QMW's wild form); Immortality (K'un-lun, P'eng-lai, P'eng-tsu); Metamorphoses (K'un fish/P'eng bird, silkworm horse) |
+| [[src-birrell-ch12]] | Birrell, *Chinese Mythology* — ch. 12: Love; censorship thesis; Nü Kua's wedding fan; Sky Voyager appears as a stranger star; Huang O and Son of White Emperor; Han P'ing's catalpa trees |
+| [[src-tao-liu-ch1-2]] | Tao Tao Liu, *The Chinese Myths* — chs. 1–2: *shenhua* as borrowed concept; historicizing vs. mythologizing; Five Directions/Five Elements; the *Shan Hai Jing* as map captions; festival cycle; Guanyin's gender transition; Guan Yu deified |
 
 ---
 
@@ -75,6 +81,9 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[figure-pan-ku]] | Mythological | Cosmic giant whose body became the universe; probably Central Asian import; became canonical in Han era |
 | [[figure-yi-archer]] | Mythological | Shot down nine of ten suns; killed six world-threatening monsters; wife stole his immortality and fled to the moon |
 | [[figure-yu-the-great]] | Mythological/Xia | Flood hero; controlled the flood in 10 years of total labor; body broken; founder of the Xia |
+| [[figure-kung-kung]] | Mythological | Titan who broke Pu-chou Mountain in a rage; tilted the sky northwest; gaped the earth southeast; cosmological marplot |
+| [[figure-yellow-emperor]] | Mythological | Warrior-god who defeated the Flame Emperor, Ch'ih Yü, and the K'uei monster; later rewritten as Taoist sage-king |
+| [[figure-yi-yin]] | Shang/Xia | Born from a hollow mulberry tree; double agent who helped destroy the Hsia; greatest minister; legendary cook |
 | [[figure-duke-of-zhou]] | Zhou (Western) | Regent who crushed the rebellion that threatened to undo the conquest; built the *fengjian* state; voluntarily returned power; Confucius's moral ideal |
 | [[figure-wu-zetian]] | Tang | Only woman to rule China as emperor; fifty years in power; expanded the empire; slandered by historians |
 | [[figure-wang-anshi]] | Song | Chancellor under Song Shenzong; New Policies — "most ambitious reorganization between First Emperor and Communist Party"; won every argument, lost the political war |
@@ -116,6 +125,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[concept-chinese-mythology]] | The mythological tradition: its sources, Confucian suppression, pantheon overview, why P'an Ku is probably not Chinese |
 | [[concept-buddhism-china]] | Buddhism's adoption in China: slow Han-era arrival → explosion under non-Han patronage → Tang golden age → 843 proscription |
 | [[concept-neo-confucianism]] | Zhu Xi's synthesis; Four Books; *lixue*; dominant intellectual framework from Song to Qing; Wang Yangming's rival "mind" school |
+| [[concept-queen-mother-west]] | 西王母 — tiger fangs and plague administration in early texts; jade pool hostess and peach orchard in late texts; source of the immortality elixir |
 
 ---
 

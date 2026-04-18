@@ -15,6 +15,16 @@ updated: 2026-04-16
 
 ---
 
+## The founding myth: a swallowed egg
+
+The Shang traced their divine descent through an ornithomorphous miracle. The founding myth (from the *Classic of Poetry*, c. 600 BC, and Ssu-ma Ch'ien's *Historical Records*):
+
+The goddess **Chien Ti**, second consort of the god Ti K'u, went with two companions to bathe. A black bird dropped an egg. Chien Ti picked it up and swallowed it. She became pregnant and gave birth to **Ch'i** (also called Hsieh) — who grew up to help Yü control the great flood, and was rewarded with the Shang fiefdom by Emperor Shun.
+
+An earlier variant has God ordering a swallow to visit two women in a nine-story tower; the swallow sang "yee-yee," the women fought over it, it laid two eggs and flew north and never returned. The women composed a song: "Swallow, swallow, you flew away!" — supposedly the first composition in the style of Northern Music.
+
+The Ch'in people had an identical origin myth: their ancestress swallowed a black bird's egg and gave birth to the Ch'in ancestor. The egg + divine bird formula was clearly a Bronze Age legitimacy device. The founding people descend from a union between a woman and the sky.
+
 ## Why the Shang matter
 
 The Shang are where Chinese history stops being archaeology and starts being records. They left behind:
@@ -118,9 +128,23 @@ The emphasis was on this-worldly practicality. Ancestors and gods had real jobs 
 
 ---
 
-## Fall of the Shang
+## King Kai and the cattle raid
 
-Around 1045 BC, the Zhou — a subordinate people from the Wei River valley to the west — overthrew the Shang at the **Battle of Muye**. The last Shang king, later portrayed as a monster of depravity (drunkenness, incest, sadism), committed suicide. The Zhou would subsequently claim that Heaven had transferred its "Mandate" from the Shang to themselves — though this doctrine seems to have been a Zhou invention after the fact. See [[concept-mandate-of-heaven]].
+Before the Anyang dynasty we know archaeologically, the mythological tradition records an earlier Shang king, **King Kai** (also written Hai), seventh in descent from the founder Ch'i. He was a herdsman-king who traveled to a neighboring tribe as a diplomatic guest, had an affair with his host's wife, and was killed in retribution — his herds stolen. His successor avenged him.
+
+Birrell reads this as the Chinese instance of the universal "first cattle raid" myth — the pastoral culture origin story found across the world. The Shang began as herdsmen, and their mythological record preserves that memory. The story is embedded in *Questions of Heaven* (4th century BC), so garbled it took Yuan K'o's 20th-century reconstruction to make it legible.
+
+## Fall of the Shang: King Chou (紂)
+
+Around 1045 BC, the Zhou — a subordinate people from the Wei River valley to the west — overthrew the Shang at the **Battle of Muye**. The last Shang king, later portrayed as a monster of depravity (drunkenness, incest, sadism), committed suicide.
+
+But Ssu-ma Ch'ien's portrait of **King Chou** is more interesting than the usual monster-tyrant. He describes a man who starts extraordinary:
+
+> King Chou was a man with remarkable qualities, most discerning, besides being forceful and quick-witted... His natural strength exceeded that of other men... He was sufficiently clever to be able to oppose official censure, and with his eloquence he was able to gloss over his mistakes.
+
+The fall is gradual, psychological: he became too fond of drink, too fond of praise, unable to accept criticism. He boasted to his courtiers, heaped praise on himself, made everyone resent him. His favorite concubine **Ta Chi** directed his excesses. He expanded the royal parks, massed naked entertainers, threw all-night drinking parties, and had the court musician compose "very effete" new dances.
+
+King Wen of Chou (father of the Zhou founders) was imprisoned by King Chou on the word of a jealous rival. He ransomed himself — his ministers traveled the country and collected two beautiful girls, a large water-cowrie, and a white horse with a red mane. When Chou saw them he "looked up to Heaven and sighed, 'How lovely they are!'" and immediately released Wen. The future conqueror freed himself by exploiting his captor's appetites. The Zhou would subsequently claim that Heaven had transferred its "Mandate" from the Shang to themselves — though this doctrine seems to have been a Zhou invention after the fact. See [[concept-mandate-of-heaven]].
 
 ---
 
@@ -145,3 +169,5 @@ Despite being a local proto-state, not an empire, the Shang demonstrated cultura
 - [[dynasty-zhou]] — who replaced them
 - [[dynasty-xia]] — their legendary predecessors
 - [[figure-qin-shi-huangdi]] — later ruler whose terracotta army echoes Shang mortuary traditions
+- [[figure-yi-yin]] — the minister born of a mulberry tree who helped found the dynasty
+- [[src-birrell-ch4-5]] — mythology sources for founding myths and King Chou

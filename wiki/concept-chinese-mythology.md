@@ -25,15 +25,28 @@ The result is a mythology that is fragmentary, inconsistent, often riddling — 
 
 ---
 
+## The word "mythology" is itself a foreign import
+
+The Chinese word for mythology — *shenhua* (神話), literally "words/talk about gods" — was **not a native Chinese concept**. It was introduced at the beginning of the 20th century from Europe, via Japan, as a translation of the Western concept. Before that, China had no generic category called "myths."
+
+This matters because it confirms what you can already see in the texts: the Chinese tradition never organized its gods and stories into a unified canonical system the way Homer and Hesiod did for the Greeks. The *shenhua* label was applied retrospectively, from outside the tradition.
+
+The Chinese tendency was the opposite of the Greek one. The Greeks *mythologized* their history — real places and people became gods and legends. The Chinese *historicized* their myths — mythological figures (Yellow Emperor, Yao, Shun) were recast as actual historical emperors, complete with genealogies and ministerial appointments. The Greek term *euhemerization* (treating myths as imperfectly remembered history) applies — but in reverse.
+
+Sima Qian's admission is the clearest example. He treated the mythological Five August Emperors as real historical rulers — and frankly noted his editorial method: *"Wherever I went, all the village elders would point out sites of Huang Di, Yao and Shun. The traditions were certainly very different from each other…. I edited and selected those words which were the most appropriate."*
+
+---
+
 ## The key sources
 
 | Text | Date | Nature |
 |------|------|--------|
 | *Songs of Ch'u* — "Questions of Heaven" | c. 4th century BC | ~160 sacred riddles implying myths without stating them; single most valuable mythographic document |
-| *Classic of Mountains and Seas* | 3rd century BC–1st century AD (compiled in stages) | A bizarre geography/mythology compendium — aims to amuse, horrify, delight; second most important source |
-| *Huai-nan Tzu* | c. 139 BC | Eclectic Taoist compilation; major cosmogonic narratives |
+| *Classic of Mountains and Seas* | 3rd century BC–1st century AD (compiled in stages) | Captions to a set of now-lost geographical maps — explains why it reads as laconic catalogue entries; second most important source |
+| *Huai-nan Tzu* | c. 139 BC | Eclectic Taoist compilation assembled by Liu An (Huainan Kingdom), allegedly by a thousand scholars; major cosmogonic narratives |
 | *Historical Records* (*Shiji*), Sima Qian | c. 100 BC | Rationalizes myths into history; useful but strips supernatural content |
 | *Explanations of Social Customs*, Ying Shao | c. AD 175 | Late Han; preserves myths in euhemerized (humanized) form |
+| *Soushen Ji* ("In Search of the Supernatural"), Gan Bao | c. 350 CE | Jin dynasty; drawn from oral tradition; lost since ~14th century, known only from quotations in later works |
 
 ---
 
@@ -89,9 +102,18 @@ The same process applies to almost every mythic figure: the older the text, the 
 
 ---
 
+## Mythology in modern China
+
+The myths were never purely textual — they lived in temples and festival cycles. Between 1400 and 1900 Beijing alone had approximately 2,500 temples. The Cultural Revolution (1966–76) tried to destroy this: temples wrecked as superstition, myths forbidden. After Mao's death (1976) it revived.
+
+The myths are still being named into new things. China's first Mars rover is **Zhurong** (the God of Fire). The lunar exploration program is **Chang'e** — missions 1 through 5, the last launched in 2020 — carrying the name of a woman who stole immortality and has been alone on the moon for three thousand years.
+
+---
+
 ## See also
 
 - [[src-birrell-ch1-3]] — source notes for Birrell chs. 1–3
+- [[src-tao-liu-ch1-2]] — Tao Tao Liu's introduction to the tradition
 - [[figure-nu-kua]] — the creatrix
 - [[figure-pan-ku]] — the cosmic giant
 - [[figure-yu-the-great]] — the flood hero

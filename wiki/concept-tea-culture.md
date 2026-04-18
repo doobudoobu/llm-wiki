@@ -1,15 +1,15 @@
 ---
 title: Tea Culture in China
 type: concept
-tags: [tea, tang, song, lu-yu, shennong, buddhism, taoism, mythology, jiaoran, chajing, poetry]
+tags: [tea, tang, song, ming, lu-yu, shennong, buddhism, taoism, mythology, jiaoran, chajing, poetry, diancha, longjing, yixing, cake-tea]
 period: "pre-Tang through late imperial"
-dynasty: [tang]
+dynasty: [tang, song, ming]
 updated: 2026-04-17
 ---
 
 # Tea Culture in China
 
-*Currently covers Benn, Chapters 2–5: early history, mythology, Buddhism, Tang poetry, and Lu Yu.*
+*Currently covers Benn, Chapters 2–6 and 8: early history, mythology, Buddhism, Tang poetry, Lu Yu, Song dynasty, and Ming dynasty.*
 
 ---
 
@@ -117,11 +117,39 @@ He was deified after his death. Tea merchants placed clay effigies of him behind
 
 ---
 
-## What's coming (from later chapters)
+## Song dynasty: cake tea and the competitive cup
 
-- Song dynasty: tea as competitive aesthetic performance (*cha* ceremony)
-- Tea's spread along trade routes
-- Later developments in tea culture
+Song tea culture was dominated by **cake tea** (*piancha* 片茶) — compressed bricks of powdered tea molded with dragon and phoenix insignia. Production was grotesque in its precision: only single-leaf buds, rinsed four times, steamed to exact timing, pressed overnight, pounded, molded, cured for up to fifteen days. The prestige product came from the **Northern Park** (*Beiyuan*) in Fujian's Jian'an county, an imperial plantation that supplied tribute tea directly to the court.
+
+The standard preparation was **diancha** 点茶 ("pointing tea"): pour a thin stream of boiling water from a narrow-spouted ewer into a bowl of powdered tea, then whisk vigorously with a bamboo whisk until a white, creamy froth formed. Dark Fujian *jian*-ware bowls showed off the pale froth to best effect. Competitive tea contests — whose froth was whiter? whose lasted longer? — became a literati performance art.
+
+**Emperor Huizong** (r. 1101–1126) wrote the most refined Song tea manual, full of precise technical detail; he personally preferred almost-unobtainable wild white tea. He was captured by the Jurchen in 1127 and died in captivity in the north. The most knowledgeable tea emperor in Chinese history ended his life as a prisoner. See [[dynasty-song]].
+
+The Chan phrase **"Go drink tea"** (*chicha qu* 吃茶去) is attributed to Chan Master Zhaozhou Congshen (778–897): asked to two monks — one who had been to the monastery before, one who had not — the answer is always "go drink tea." The abbot asks why the same answer for both; Zhaozhou tells him to come closer, then says it again. Awakening is inseparable from the daily routine. Tea was a necessity in every Song Chan monastery; formal monastic tea ceremonies were among the most elaborate rituals in the monastic calendar, modeled on imperial court banquet etiquette.
+
+---
+
+## Ming dynasty: the revolution nobody planned
+
+The most consequential moment in Chinese tea history was a single bureaucratic edict. In **1391**, the first Ming emperor Zhu Yuanzheng — a man of peasant origin — abolished cake tea as tribute on the grounds that its production "overtaxed the people's strength." Whole-leaf tea would be sent to court instead.
+
+The result was unintentional: **leaf tea** replaced powdered tea across China within a generation. The Ming brewing method — rinse leaves, steep in a stoneware teapot, pour and re-steep — is essentially what most of the world does today. Tea became portable, democratic, and commercially explosive. Roadside tea stalls appeared everywhere.
+
+**Yixing** (*zisha* 紫砂, "purple clay") teapots emerged in this context: slightly porous stoneware that preserved delicate fragrances that other vessels lost. They remain the definitive teapot form.
+
+The five great Ming teas — **Longjing** (Dragon Well, Hangzhou), **Songluo** (Anhui), **Luojie** (Yixing), **Huqiu** (Tiger Hill, Suzhou, the "king among teas"), and **Wuyi** (Fujian cliff tea) — were all grown at Buddhist monastic sites. The monk Dafang invented Songluo tea by applying Huqiu monastery's pan-firing techniques to tea he picked on a different mountain; neighboring counties immediately started branding their tea "Songluo."
+
+Ming connoisseurship reached heights of refined excess. Water obsession was as intense as tea obsession: Yuan Hongdao once ordered thirty jars of the famous "number two spring under heaven" from Mount Hui. His servants secretly replaced the water with ordinary mountain spring water. His friends tasted it and praised it effusively. Yuan discovered the substitution and was furious.
+
+The best statement of the Ming aesthetic is Xu Cishu's list (1549–1604) of appropriate occasions for tea: "when mind or hands are idle / when weary of declaiming verse / in light cloud and drizzle / on small bridges or gaily painted pleasure boats / as drunken guests disperse / when the children have left the building / at pure and secluded temples."
+
+Tea in the Ming had become an *idea* as much as a beverage — the essential companion of the scholar in retreat from vicious court politics, the prop of all literati fantasies about the contemplative life.
+
+---
+
+## The great split: why Japanese tea looks like Song tea
+
+When the Japanese monk Eisai visited Song China (1168–1191), he brought back the *diancha* method — whisking powdered tea in a bowl. Japan preserved this as *matcha*. China moved on: the Ming leaf-tea revolution happened in 1391, and powdered/whisked tea vanished from China within decades. This is why Japanese tea ceremony still looks like 12th-century Chinese tea.
 
 ---
 
@@ -130,5 +158,8 @@ He was deified after his death. Tea merchants placed clay effigies of him behind
 - [[figure-lu-yu]] — the man who codified tea culture
 - [[src-tea-ch2]] — early history and mythology
 - [[src-tea-ch3-5]] — Buddhism, poetry, and Lu Yu
-- [[event-an-lushan-rebellion]] — the crisis that scattered the tea poets south
+- [[src-tea-ch6-8]] — Song and Ming tea culture
+- [[event-an-lushan-rebellion]] — the crisis that scattered the Tang tea poets south
+- [[dynasty-song]] — Huizong and the fall of Kaifeng
+- [[dynasty-ming]] — Zhu Yuanzheng's abolition of cake tea
 - [[concept-mandate-of-heaven]] — another concept invented (or massively elaborated) after the fact

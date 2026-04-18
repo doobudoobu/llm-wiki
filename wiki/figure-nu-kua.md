@@ -4,7 +4,7 @@ type: figure
 tags: [nu-kua, goddess, creatrix, creation, sky-mending, flood, mythology]
 period: "mythological antiquity"
 dynasty: []
-updated: 2026-04-16
+updated: 2026-04-18
 ---
 
 # Nü Kua (女媧)
@@ -54,15 +54,31 @@ Birrell notes that this is a late, demythologized version: the incest, once divi
 
 ---
 
+## The silent achievement
+
+Birrell's sharpest observation about Nü Kua is about an ending. The full *Huai-nan Tzu* passage on her sky-repair lists everything she did — smelted the five-color stones, set the four poles right, killed the black dragon, dammed the floods with reed ash — and then concludes:
+
+> "She holds the secret of the Way of the True Person and follows the eternal nature of Heaven and earth."
+
+She does not display her achievements. She performs the greatest act in Chinese mythology — possibly in any mythology — and then retreats into Taoist silence. Whether this was always the intended ending or whether someone added it to diminish her, the effect is the same: the most powerful creative act in the tradition ends with a goddess modestly stepping back.
+
+Karlgren, one of the foremost Western scholars of early China, argued at one point that Nü Kua "might be male" — a sign of how resistant the scholarly tradition was to accepting a female figure at the center of Chinese cosmogony.
+
+---
+
 ## What Confucianism did to her
 
 The trajectory of the Nü Kua myth shows the Confucian rationalization project in miniature:
 
 **Early texts:** Independent primeval goddess who makes humans, mends the sky, rules alone.  
-**Han era:** Paired with Fu Hsi as his consort; both depicted with serpentine lower bodies entwined; she becomes the exemplar of the institution of marriage.  
+**Han era:** Paired with Fu Hsi as his consort; both depicted with serpentine lower bodies entwined like Zeus and Hera; her ancient independence eliminated. She becomes the exemplar of the institution of marriage rather than its inventor.  
 **Tang era:** A mortal woman, married to her brother, "subservient to God in Heaven," ashamed of the incest that earlier was simply what happened at the beginning of the world.
 
 The measuring rope and compass she carries in Han iconography — her most distinctive emblem — are attributes of creation and construction. In the earliest iconography she may have carried them alone. By the Han, Fu Hsi carries the carpenter's square and Nü Kua carries the compass: the tools of creation divided between husband and wife.
+
+Edward Schafer's diagnosis: her demotion reflects "the contempt of some eminent and educated men for animalian gods, and partly the increasing domination of masculinity in the elite social doctrine." Nü Kua was one of the clearest casualties.
+
+Compare [[concept-queen-mother-west]] — the Queen Mother of the West underwent the same transformation, from tiger-fanged plague deity to jade-pool hostess.
 
 ---
 
