@@ -54,4 +54,4 @@ The written texts (compiled from the 4th–3rd centuries BC onward) portray a ne
 - [[concept-mandate-of-heaven]]
 - [[concept-oracle-bones]]
 - [[overview]]
-- [[timeline]]
+- [[timeline-china]]

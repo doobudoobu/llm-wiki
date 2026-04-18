@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept-tea-culture.md",
+                "file": "timeline-china.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concept-tea-culture"
+              "title": "timeline-china"
             }
           }
         ]
@@ -199,8 +199,15 @@
   },
   "active": "bcc904f029a8d825",
   "lastOpenFiles": [
-    "concept-spinoza-ontology.md.tmp.19681.1776549363873",
+    "compare-moral-philosophy.md",
+    "timeline.md",
+    "index.md.tmp.19681.1776549479488",
+    "index.md.tmp.19681.1776549470891",
+    "index.md",
+    "compare-moral-philosophy.md.tmp.19681.1776549463359",
     "concept-spinoza-ontology.md",
+    "concept-tea-culture.md",
+    "concept-spinoza-ontology.md.tmp.19681.1776549363873",
     "src-tao-liu-ch1-2.md",
     "index.md.tmp.19681.1776549120214",
     "src-hegel-phenom-consciousness-selfconsciousness.md",
@@ -222,18 +229,11 @@
     "src-spinoza-ethics-p1.md",
     "log.md.tmp.4361.1776533438333",
     "concept-neo-confucianism.md",
-    "index.md.tmp.4361.1776533411969",
     "src-spinoza-ethics-p2.md",
-    "src-spinoza-ethics-p2.md.tmp.4361.1776533404837",
-    "log.md.tmp.4361.1776533068685",
-    "index.md.tmp.4361.1776533058477",
     "Clippings/Untitled.md",
     "Clippings/spinoza ethics.md",
-    "concept-tea-culture.md",
     "concept-xiongnu.md",
     "src-tea-ch6-8.md",
-    "src-tea-ch3-5.md",
-    "src-keay-china-ch7-9.md",
-    "figure-duke-of-zhou.md"
+    "src-tea-ch3-5.md"
   ]
 }

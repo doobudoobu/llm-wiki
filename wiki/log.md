@@ -314,3 +314,12 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
   - Skepticism: the "squabbling of self-willed children" — denies all truth-claims while being itself a truth-claim; denies seeing and hearing while itself seeing and hearing; internally self-refuting
   - Unhappy Consciousness: the Changeable (my mortal contingent self) vs. the Unchangeable (the eternal divine) held together as irreconcilable within one consciousness; historically: late Hellenic longing for lost Greek gods → neo-Platonism → medieval Christianity; the structure of religious alienation; what Kierkegaard would later call "despair"
   - Pinkard's framing throughout: each form of consciousness is not just an epistemological theory but a historically situated "formation" with its own social practices and standards; the real argument is that knowledge is constituted in social space, not in the isolated individual subject's relation to a metaphysical object
+
+---
+
+## [2026-04-18] new-page | concept-spinoza-ontology + compare-moral-philosophy
+
+- Pages created: [[concept-spinoza-ontology]], [[compare-moral-philosophy]]
+- Pages updated: [[index]]
+- concept-spinoza-ontology: fills the long-standing stub; covers substance/attribute/mode framework, *Deus sive Natura*, necessity and determinism, *natura naturans* / *natura naturata*, and why the ontology is load-bearing for the rest of the Ethics
+- compare-moral-philosophy: living comparison page for moral philosophers; currently Spinoza + Hume + Hegel; structured for future expansion (Kant, Nietzsche, Marx, Mill, etc.); covers quick-reference table, thinker summaries, five fault lines (reason and motivation, nature vs. history, self-interest, emotion, political freedom), shared agreements across all three

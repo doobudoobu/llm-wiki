@@ -17,7 +17,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | Page | Summary |
 |------|---------|
 | [[overview]] | High-level sweep of Chinese dynastic history |
-| [[timeline]] | Chronological list of all dynasties and key events |
+| [[timeline-china]] | Chronological list of all dynasties and key events |
 
 ---
 
@@ -141,6 +141,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 ## Philosophy
 
+
 ### Sources
 
 | Page | Summary |
@@ -166,7 +167,13 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 | Page | Summary |
 |------|---------|
-| *(none yet — see source page for substance/attribute/mode)* | |
+| [[concept-spinoza-ontology]] | Spinoza's substance/attribute/mode framework; God = Nature; determinism; *natura naturans* / *natura naturata* |
+
+### Analyses & Comparisons
+
+| Page | Summary | Date |
+|------|---------|------|
+| [[compare-moral-philosophy]] | Moral philosophy — Spinoza, Hume, Hegel (and future thinkers): foundations, reason vs. sentiment, freedom, politics, fault lines | 2026-04-18 |
 
 ---
 
