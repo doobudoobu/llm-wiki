@@ -120,6 +120,7 @@ When the user asks for a health check:
 - **Write for a curious reader, not a scholar** — prioritize vivid detail, narrative, and "why does this matter?" over jargon
 - **Include dates and dynasty context** on every page — readers should always know when they are
 - **Flag connections across dynasties** — recurring patterns (dynastic cycles, the role of eunuchs, peasant rebellions, border threats) are often as interesting as specific events
+- **Add relevant chinese characters for important pinyin** - key terms written in pinyin should include the corresponding chinese characters for context.
 
 ## Log format
 

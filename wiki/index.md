@@ -29,9 +29,11 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[src-keay-china-ch10-12]] | Keay, *China: A History* — chapters 10–12 (Five Dynasties through Mongol conquest, 755–1405 CE) |
 | [[src-keay-china-ch13-14]] | Keay, *China: A History* — chapters 13–14 (Ming through early Qing, 1405–1760 CE) |
 | [[src-li-feng-ch5]] | Li Feng, *Early China* — ch. 5: oracle bones, Shang divination mechanics, non-royal bones, succession |
+| [[src-li-feng-ch6-7]] | Li Feng, *Early China* — chs. 6–7: Western Zhou conquest, *fengjian* system, bronze inscriptions, bureaucracy, Mandate of Heaven anxiety, fall of Western Zhou |
 | [[src-birrell-ch1-3]] | Birrell, *Chinese Mythology* — chs. 1–3: origins, culture bearers, saviors; P'an Ku, Nü Kua, Yi, Yü |
 | [[src-li-feng-ch1-4]] | Li Feng, *Early China* — chs. 1–4: historiography, Neolithic China, Erlitou/Erligang, Anyang and Bronze Age cultures |
 | [[src-tea-ch2]] | Benn, *Tea in China* — ch. 2: the real (not mythological) early history of tea; Lu Yu's invented origin myths; ghost stories |
+| [[src-tea-ch3-5]] | Benn, *Tea in China* — chs. 3–5: Buddhism and tea; Tang tea poetry (Jiaoran, Lu Tong's Seven Cups, Li Bai); Lu Yu's life and *Chajing* |
 
 ---
 
@@ -73,9 +75,11 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[figure-pan-ku]] | Mythological | Cosmic giant whose body became the universe; probably Central Asian import; became canonical in Han era |
 | [[figure-yi-archer]] | Mythological | Shot down nine of ten suns; killed six world-threatening monsters; wife stole his immortality and fled to the moon |
 | [[figure-yu-the-great]] | Mythological/Xia | Flood hero; controlled the flood in 10 years of total labor; body broken; founder of the Xia |
+| [[figure-duke-of-zhou]] | Zhou (Western) | Regent who crushed the rebellion that threatened to undo the conquest; built the *fengjian* state; voluntarily returned power; Confucius's moral ideal |
 | [[figure-wu-zetian]] | Tang | Only woman to rule China as emperor; fifty years in power; expanded the empire; slandered by historians |
 | [[figure-wang-anshi]] | Song | Chancellor under Song Shenzong; New Policies — "most ambitious reorganization between First Emperor and Communist Party"; won every argument, lost the political war |
 | [[figure-zheng-he]] | Ming | Yunnanese Muslim eunuch; commanded treasure fleets (ships 130m long) to India, Arabia, East Africa 1405–1433; then allowed to rot |
+| [[figure-lu-yu]] | Tang | Abandoned infant raised by a monk; refused his vows; wrote the *Chajing* c. 780 CE; deified posthumously as the God of Tea |
 
 ---
 
@@ -83,6 +87,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 | Page | Period | Summary |
 |------|--------|---------|
+| [[event-zhou-conquest-shang]] | 1059–1042 BCE | Planetary conjunction triggers Heaven's Mandate; Battle of Muye; Duke of Zhou's regency; the second conquest |
 | [[event-battle-red-cliffs]] | 208–209 CE | Fireships, a turning wind, and the battle that locked in China's three-way division for 60 years |
 | [[event-an-lushan-rebellion]] | 755–763 CE | The rebellion that shattered the Tang golden age; Yang Guifei's death; 30+ million dead; autonomous warlords forever |
 | [[event-mongol-conquest-song]] | 1267–1279 CE | Six-year siege of Xiangfan; Muslim trebuchets; Lu Xiufu straps the emperor to his back and jumps into the sea; 800-ship fleet follows |
@@ -101,7 +106,8 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 | Page | Summary |
 |------|---------|
-| [[concept-mandate-of-heaven]] | *Tian ming* — Heaven grants rule to the virtuous; withdraws it from the corrupt; justifies every dynastic change |
+| [[concept-mandate-of-heaven]] | *Tian ming* 天命 — born in a 1059 BCE planetary conjunction; grants rule to the virtuous; also a source of Zhou anxiety; justifies every dynastic change |
+| [[concept-fengjian]] | *Fengjian* 封建 — Zhou enfeoffment system: kinship-based regional states, NOT feudalism; Li Feng's 2003 reinterpretation |
 | [[concept-oracle-bones]] | Shang divination on heated bones and shells; earliest Chinese writing; discovered in a Beijing pharmacy in 1899 |
 | [[concept-xiongnu]] | Nomadic steppe confederacy; primary Han-era threat; *heqin* tribute treaties; Maodun; split 51 BC; template for all later nomadic threats |
 | [[concept-neolithic-china]] | Neolithic cultures c. 7000–2000 BC: Cishan-Peiligang, Yangshao, Longshan, Taosi, Liangzhu |

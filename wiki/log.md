@@ -158,3 +158,36 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
   - Wu Zetian's fall: at 80-something, confronted by ministers after pardoning her favorites one too many times; last act was to address her trembling son "in terms of contempt," then return to bed
   - "A poor Persian" listed as the number-one anomaly in a Tang literary parlor game — Chang'an's Persians financed the silk trade in silver coin preferred to debased copper cash
   - Yang Guifei strangled with silk on the road to Sichuan, the emperor watching powerlessly as his escort mutinied — the origin of one of China's great tragic love stories
+
+## [2026-04-17] ingest | Li Feng, *Early China* — Chapters 6–7 (Western Zhou, 1059–771 BCE)
+
+- Source: `raw/early_china_li_feng.pdf` (pp. 112–160)
+- Chapters covered: 6 ("The inscribed history: the Western Zhou state and its bronze vessels"), 7 ("The creation of paradigm: Zhou bureaucracy and social institutions")
+- Summary page: [[src-li-feng-ch6-7]]
+- Pages created: [[event-zhou-conquest-shang]], [[concept-fengjian]], [[figure-duke-of-zhou]]
+- Pages updated: [[dynasty-zhou]], [[concept-mandate-of-heaven]], [[timeline]], [[index]]
+- Most interesting new details:
+  - The five-planet conjunction of 1059 BCE (confirmed by modern astronomy) was the actual trigger for King Wen's declaration of kingship — the Mandate of Heaven was born in a real astronomical event, not purely political invention
+  - Caucasoid bone sculptures with the character *wu* 巫 ("shaman") found at the Zhou capital Zhouyuan; carnelian beads and faience from India and West Asia in Zhou tombs — the Zhou world reached into Central Asia
+  - Li Feng's key intervention: *fengjian* is NOT feudalism — it was a kinship-based system, not a contractual one; he published a 2003 *Harvard Journal of Asiatic Studies* article on this
+  - Heaven's Mandate was also a source of anxiety for the Zhou themselves: only King Wen was the recipient; subsequent kings could only maintain it; late Western Zhou poetry is haunted by fear of losing it
+  - The Bao Si story (smiling concubine / beacon fires) is "essentially fictional" (Li Feng); the real fall was a 777 BCE political split that brought in barbarian proxies
+  - The Zhou invented bureaucracy — real administrative offices (Supervisor of Land, Construction, Horses) organized into a Ministry; Shang had no equivalent
+  - The "Confucian Classics" (Yijing, Shangshu, Shijing) were created 300 years before Confucius; the earliest Shangshu texts are Duke of Zhou's government documents
+  - King Zhao drowned with his entire royal Six Armies in the Han River — no bronze was cast to record it
+
+## [2026-04-17] ingest | Benn, *Tea in China* — Chapters 3–5 (Buddhism, Poetry, Lu Yu)
+
+- Source: `raw/teainchina.pdf` (PDF pp. 56–130, book pp. 42–116)
+- Chapters covered: 3 ("Buddhism and Tea in the Tang Dynasty"), 4 ("Tea Poetry in Tang China"), 5 ("The Patron Saint of Tea")
+- Summary page: [[src-tea-ch3-5]]
+- Pages created: [[figure-lu-yu]]
+- Pages updated: [[concept-tea-culture]] (major expansion: Buddhism, *Chajiu lun*, Famen si, Tang tea poetry, Lu Yu and *Chajing*, deification)
+- Pages updated (index): [[index]]
+- Most interesting new details:
+  - Lu Yu was abandoned as a baby, found by a monk among wild geese in late autumn, refused his monastic vows, taught himself to read on cattle with a bamboo stylus, ran away at 13 to join entertainers — then became the God of Tea
+  - The *Chajiu lun*: Mr. Tea vs. Mr. Alcohol argue about superiority; neither wins; Mr. Water interrupts and ends the debate
+  - The 1987 Famen si discovery: imperial gilt-silver teaware buried with Buddha's finger-bone relic; the "esoteric Buddhist ritual" reading is probably wrong (Benn)
+  - Tea is completely absent from pre-Tang poetry — Jiaoran and Lu Tong invented the vocabulary of tea mysticism from nothing in the mid-Tang
+  - Bai Juyi wrote about tea without any spiritual framing, showing everyone else's mystical vocabulary was a deliberate choice
+  - An Lushan rebellion may have done more to reduce Tang alcohol consumption than any Buddhist temperance movement

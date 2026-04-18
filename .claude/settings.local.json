@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ebook-convert *)"
+      "Bash(ebook-convert *)",
+      "Bash(git -C /home/doob/Documents/llm-wiki ls-files)",
+      "Bash(pdfinfo /home/doob/Documents/llm-wiki/raw/early_china_li_feng.pdf)",
+      "Bash(pdftotext /home/doob/Documents/llm-wiki/raw/early_china_li_feng.pdf -)",
+      "Bash(pdfinfo /home/doob/Documents/llm-wiki/raw/teainchina.pdf)",
+      "Bash(pdftotext /home/doob/Documents/llm-wiki/raw/teainchina.pdf -)"
     ]
   }
 }

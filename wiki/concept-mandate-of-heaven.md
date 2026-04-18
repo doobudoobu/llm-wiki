@@ -24,13 +24,27 @@ It is both a guarantee and a threat. It legitimizes the ruler in power. It also 
 
 ---
 
-## Origins: a Zhou invention
+## Origins: a Zhou invention with an astronomical birth moment
 
-Before the Zhou, the Shang ruled through their ancestral connection to the deity Di. Di was personal, demanding, and specifically Shang — not a universal authority. Heaven (*tian*) barely appears in the Shang oracle bones.
+Before the Zhou, the Shang ruled through their ancestral connection to the deity *Di* 帝. *Di* was personal, demanding, and specifically Shang — not a universal authority. Heaven (*tian* 天) barely appears in the Shang oracle bones.
 
-The Zhou had overthrown the Shang. They needed an explanation. The Duke of Zhou — regent to the young King Cheng and the most consequential political thinker of the early Zhou — provided one. In debates recorded in the *Shangshu* (Book of Documents), he argued that Heaven had transferred its earthly mandate from the Shang to the Zhou because the Shang had become degenerate (drunkenness, incest, sadism — a catalogue later embellished for maximum effect) while the Zhou had demonstrated superior virtue.
+The Zhou had overthrown the Shang. They needed an explanation. But the Mandate was not purely invented after the fact — it was grounded in a real event. In the fifth month of 1059 BCE, fourteen years before the [[event-zhou-conquest-shang|conquest]], the five major planets (Jupiter, Saturn, Mars, Venus, Mercury) aligned in a narrow 30° arc of the northern sky, visible from the Zhou capital. Modern astronomy has confirmed this date. The Zhou transmitted the event as a Red Crow perching on their altar. It was taken as the moment Heaven transferred its approval. King Wen declared kingship on the strength of it.
+
+The [[figure-duke-of-zhou|Duke of Zhou]] — regent to the young King Cheng and the most consequential political thinker of the early Zhou — then articulated the doctrine fully in government texts now preserved in the *Book of Documents* (*Shangshu* 尚书). He argued that Heaven had transferred its mandate from Xia to Shang to Zhou because the Shang had become degenerate (drunkenness, incest, sadism — a catalogue later embellished for maximum effect) while the Zhou had demonstrated superior virtue.
 
 This was retrospective justification for a military conquest, dressed in cosmic language. It was also, as the Duke seems to have been aware, a constitutional time bomb.
+
+---
+
+## The Zhou's own anxiety
+
+Later dynasties experienced the Mandate primarily as a legitimating tool — useful when in power, dangerous when challenged. The Zhou experienced something subtler and stranger: the doctrine as a source of existential dread *even while ruling*.
+
+The problem was structural. The Mandate had been granted once — to King Wen, in that planetary conjunction of 1059 BCE. Subsequent Zhou kings could not receive it again; they could only maintain it through virtuous conduct. Every flood, every military defeat, every rebellion was therefore not just a political problem but a potential cosmic signal: was Heaven withdrawing its approval?
+
+The bronze inscriptions from the late Western Zhou show the Zhou elite constantly reaffirming the Mandate's presence, which suggests they were not entirely confident it was. The *Book of Poetry* (*Shijing* 诗经), particularly the "Minor Odes" associated with the late Western Zhou court, contains poem after poem expressing anxiety that the dynasty is losing Heaven's favor — that the kings are failing to live up to the founding example of King Wen and King Wu. The theory of dynastic legitimacy that justified the Zhou's own conquest had embedded a permanent warning into the dynasty's self-understanding: Heaven had done this before, and could do it again.
+
+This anxiety was not irrational. The theory said Xia → Shang → Zhou. It was silent on whether Zhou would be the last.
 
 ---
 

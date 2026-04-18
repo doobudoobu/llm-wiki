@@ -31,10 +31,14 @@ updated: 2026-04-17
 | c. 1200 BC | Lady Hao active (Wu Ding's reign) | Senior consort, military commander; leads army of 10,000+; tomb discovered 1975, unlooted; 468 bronzes, 755 jades |
 | c. 1200 BC | Mother Wu cauldron cast | 875 kg, 1.33 m high — largest bronze vessel in the world; required 1,000+ simultaneous artisans |
 | c. 1250–1046 BC | Anyang period (late Shang) | Royal cemetery; 30,000+ human sacrifice victims; oracle bone archive; 100,000+ bones recovered |
-| **c. 1045 BC** | **Battle of Muye — Zhou overthrow Shang** | King Wu of Zhou defeats Shang; last Shang king commits suicide |
-| **c. 1045–771 BC** | **Western Zhou** | Feudal expansion; Mandate of Heaven articulated by Duke of Zhou; early kings idealized |
-| 841 BC | First absolute date in Chinese history | A solar eclipse recorded in texts and astronomically confirmed |
-| 771 BC | Sack of Zhou capital; Western Zhou ends | King You ignores vassal calls for help; killed by Xianyun attackers; court flees east to Luoyang |
+| **1059 BC** | **Five-planet conjunction; Heaven's Mandate to Zhou** | Jupiter, Saturn, Mars, Venus, Mercury align in 30° arc visible from the Zhou capital — confirmed by modern astronomy; triggers King Wen's declaration of kingship |
+| **c. 1045 BC** | **Battle of Muye — Zhou overthrow Shang** | King Wu defeats Shang in a single day; last Shang king self-immolates; Li *gui* bronze records the battle same-day; [[event-zhou-conquest-shang]] |
+| **c. 1043–1042 BC** | **Duke of Zhou's regency; second conquest** | King Wu dies two years after Muye; brothers rebel with Shang remnants; Duke of Zhou crushes revolt over three years; builds the *fengjian* network; [[figure-duke-of-zhou]] |
+| **c. 1045–771 BC** | **Western Zhou** | *Fengjian* regional state network; Mandate of Heaven articulated by Duke of Zhou; bronze inscriptions as historical record; Zhou world reaches into Central Asia |
+| **c. 977–957 BC** | **King Zhao's disastrous southern campaign** | Entire royal Six Armies lost in the Han River; King Zhao drowned; no bronze was cast to record it |
+| 841 BC | First absolute date in Chinese history | Solar eclipse recorded in texts and confirmed astronomically |
+| **777 BC** | **Zhou political split** | Senior officials ("August Father" faction) depart east with crown prince; King You attacks Western Shen; real origin of the dynasty's fall |
+| **771 BC** | **Sack of Zhou capital; Western Zhou ends** | Western Shen + Zeng call in Xianyuan barbarians; King You killed at Lishan Mountain; Bao Si story is fictional; court flees east to Luoyang |
 | **770–481 BC** | **Spring and Autumn period** | ~148 semi-sovereign entities compete; Zhou kings ceremonial; Confucius |
 | 636 BC | Jin hegemon recognized | Duke Wen of Jin (Chonger) recognized as *ba* (overlord) by Zhou king after nineteen years of exile |
 | **551–479 BC** | **Confucius** | From Lu state; travels the central states seeking employment; dies a failure; eventually the most influential thinker in Chinese history |
