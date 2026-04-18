@@ -152,6 +152,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[src-spinoza-ethics-p5]] | Spinoza, *Ethics* Part V: freeing from affects by forming adequate ideas; intellectual love of God; eternity of the mind; blessedness is not virtue's reward but virtue itself |
 | [[src-hume-epm]] | Hume, *An Enquiry Concerning the Principles of Morals*: utility + sympathy; justice as artificial virtue; monkish vices; the sensible knave; sentiment over reason |
 | [[src-hegel-phenom-preface-intro]] | Hegel, *Phenomenology of Spirit* — Preface + Introduction: the True as Subject; the night of all cows; labour of the negative; determinate negation; the way of despair |
+| [[src-hegel-phenom-consciousness-selfconsciousness]] | Hegel, *Phenomenology of Spirit* — Consciousness + Self-Consciousness: Sense-Certainty; Perception; Force/Understanding; "I that is We"; Lordship and Bondage; Stoicism; Skepticism; Unhappy Consciousness |
 
 ### Thinkers
 

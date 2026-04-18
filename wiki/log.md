@@ -295,3 +295,22 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
   - Thesis-antithesis-synthesis is NOT Hegel — Hegel himself dismisses this triadic schema as "a lifeless schema." Pinkard confirms it was invented by popularizers (traced to Fichte).
   - Pinkard's key reframe: Spirit (*Geist*) is not a metaphysical entity but a *relation* — the shared social space of reason-giving among persons. The Phenomenology is a dialectical history of European *Geist*, not a map of a pre-existing spiritual reality.
 - Note: Text covers §§1–89 (Preface complete, Introduction complete). Next section: A. Consciousness (§§90–165), then B. Self-Consciousness including Master/Slave (§§166–230).
+
+---
+
+## [2026-04-18] ingest | Hegel, *Phenomenology of Spirit* — Consciousness and Self-Consciousness (§§90–230)
+
+- Summary page: [[src-hegel-phenom-consciousness-selfconsciousness]]
+- Pages updated: [[index]]
+- Secondary source: Pinkard, *Hegel's Phenomenology* Ch. 2–3 (pp. 21–71)
+- Most interesting new details:
+  - Sense-Certainty: "the unutterable is nothing else than the untrue" — language always says the universal; even writing down "Now is Night" produces a stale, past Now by the time you re-read it
+  - Perception: the thing is supposed to be both a One (bare particular) and an Also (indifferent medium of many properties); these requirements are internally contradictory; the thing turns out to be "for itself, so far as it is for another, and for another, so far as it is for itself" — what the object is cannot be specified independently of its relations
+  - Force and Understanding: positing metaphysical forces behind appearances produces a tautology ("electrical force explains electricity") and eventually the "inverted world" where everything in the phenomenal world is the opposite of its inner essence — Hegel's sardonic demonstration that the Understanding is just mapping its own conceptualizing activity onto a fictional supersensible realm; "behind the curtain, there is nothing to be seen unless we go behind it ourselves"
+  - The transition to Self-Consciousness: Spirit as "I that is We and We that is I" — Hegel's first positive statement of what Spirit is
+  - Desire and Life: self-consciousness first takes itself to be a desiring organism; the world is "negative" — to be consumed; but desire always reproduces its object; genuine satisfaction requires another self-consciousness
+  - Lordship and Bondage: the master/slave reversal is devastating: the Lord sought recognition from an independent consciousness but has created a dependent one, rendering the recognition worthless; meanwhile the slave is educated by fear, service, and work — work is "desire held in check, fleetingness staved off"; the slave discovers its own being-for-self objectified in the worked object and "acquires a mind of its own"
+  - Stoicism: freedom in thought alone is formal and empty — when asked what is specifically good or true, Stoicism can only say "be reasonable," which is a tautology
+  - Skepticism: the "squabbling of self-willed children" — denies all truth-claims while being itself a truth-claim; denies seeing and hearing while itself seeing and hearing; internally self-refuting
+  - Unhappy Consciousness: the Changeable (my mortal contingent self) vs. the Unchangeable (the eternal divine) held together as irreconcilable within one consciousness; historically: late Hellenic longing for lost Greek gods → neo-Platonism → medieval Christianity; the structure of religious alienation; what Kierkegaard would later call "despair"
+  - Pinkard's framing throughout: each form of consciousness is not just an epistemological theory but a historically situated "formation" with its own social practices and standards; the real argument is that knowledge is constituted in social space, not in the isolated individual subject's relation to a metaphysical object
