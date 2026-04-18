@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "figure-liu-bang.md",
+                "file": "src-spinoza-ethics-p3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "figure-liu-bang"
+              "title": "src-spinoza-ethics-p3"
             }
           }
         ]
@@ -199,12 +199,20 @@
   },
   "active": "bcc904f029a8d825",
   "lastOpenFiles": [
+    "concept-spinoza-ontology.md",
+    "src-keay-china-ch1-3.md",
+    "log.md.tmp.4361.1776533846352",
+    "index.md.tmp.4361.1776533836738",
+    "src-spinoza-ethics-p3.md.tmp.4361.1776533831502",
+    "src-keay-china-ch13-14.md",
+    "src-li-feng-ch1-4.md",
+    "src-li-feng-ch5.md",
+    "figure-spinoza.md",
+    "concept-oracle-bones.md",
+    "figure-liu-bang.md",
     "src-spinoza-ethics-p3.md",
     "concept-chinese-mythology.md",
-    "concept-spinoza-ontology.md",
     "src-spinoza-ethics-p1.md",
-    "figure-liu-bang.md",
-    "figure-spinoza.md",
     "log.md.tmp.4361.1776533438333",
     "concept-neo-confucianism.md",
     "index.md.tmp.4361.1776533411969",
@@ -214,9 +222,6 @@
     "index.md.tmp.4361.1776533058477",
     "src-spinoza-ethics-p1.md.tmp.4361.1776533051864",
     "figure-spinoza.md.tmp.4361.1776532959572",
-    "log.md.tmp.4361.1776532759190",
-    "index.md.tmp.4361.1776532752148",
-    "index.md.tmp.4361.1776532744979",
     "Clippings/Untitled.md",
     "Clippings/spinoza ethics.md",
     "concept-tea-culture.md",
@@ -229,11 +234,6 @@
     "dynasty-qin.md",
     "concept-fengjian.md",
     "log.md",
-    "concept-erlitou.md",
-    "figure-yi-archer.md",
-    "figure-yu-the-great.md",
-    "figure-pan-ku.md",
-    "src-keay-china-ch1-3.md",
-    "figure-nu-kua.md"
+    "concept-erlitou.md"
   ]
 }

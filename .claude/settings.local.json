@@ -39,7 +39,15 @@
       "Bash(pdftotext raw/lord-guide.pdf -)",
       "Bash(awk 'NR>=1 && NR<=50')",
       "Bash(pdftotext \"raw/[Beth_Lord]_Spinoza_'s_Ethics.pdf\" -)",
-      "Bash(awk 'NR>=3266 && NR<=4100')"
+      "Bash(awk 'NR>=3266 && NR<=4100')",
+      "Bash(awk 'NR>=1 && NR<=100')",
+      "Bash(awk 'NR>=2700 && NR<=4300')",
+      "Bash(awk 'NR>=4300 && NR<=5800')",
+      "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\" -)",
+      "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\" /tmp/pinkard.txt)",
+      "Bash(pdfinfo \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\")",
+      "Bash(pdftotext -r 300 \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\" /tmp/pinkard.txt)",
+      "Bash(grep -n \"INTRODUCTION\\\\|^INTRODUCTION\\\\|Introduction$\" \"/home/doob/Documents/llm-wiki/raw/Full text of _Phenomenology Of Spirit G W F Hegel_.md\")"
     ]
   }
 }

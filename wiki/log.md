@@ -242,6 +242,12 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - Pages updated: [[figure-nu-kua]] (Han-era demotion: silent achievement, Karlgren/Schafer, Fu Hsi consort pairing), [[index]]
 - Most interesting new details: The original *Classic of Poetry* Weaver Maid poem has zero romantic content — both Weaver Maid and Draught Ox are images of futile, unfinished labor. Six hundred years of romantic elaboration on top of a poem about uselessness. The Queen Mother of the West begins with tiger fangs and panther tail administering divine executions; she ends pouring wine at a garden party. The silkworm myth: a girl breaks a promise to her horse, mocks its dead skin, and gets wrapped in it and transformed — the origin of the entire Chinese silk industry, and "mulberry" (*sang* 桑) puns on "mourning" (*sang* 喪). P'eng-tsu, the Chinese Methuselah, refuses to reveal his secret of 767-year-long life because longevity "has broken my good humor in my guts." He disappears heading west. Last seen seventy years later.
 
+## [2026-04-18] ingest | Spinoza, *Ethics* Part III (On the Origin and Nature of the Emotions)
+- Summary page: [[src-spinoza-ethics-p3]]
+- Secondary source used: Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide*
+- Pages updated: [[index]]
+- Most interesting details: Conatus (P6-7) is the single most important concept — each thing's essence IS its striving to persist; we do not desire things because they are good, we call them good because we desire them. The three primitive affects are joy (transition to greater power), sadness (transition to lesser power), and desire — from these everything follows. Emotional contagion (P27): imagining a similar being feeling an emotion causes us to feel the same; this is the root of compassion, emulation, envy, and competition. Ethnic hatred (P46): a rigorously non-moral explanation of racism as accidental conditioning applied at scale — race and nation are imaginary generalizations with no rational basis. There is no active sadness — sadness is necessarily passivity. The closing image: "like waves on the sea, driven by contrary winds, we toss about, not knowing our outcome and our fate." The P35 scholium on jealousy — written with unmistakable personal experience — is the most affectively raw passage in the Ethics.
+
 ## [2026-04-18] ingest | Spinoza, *Ethics* Part II (On the Nature and Origin of the Mind)
 - Summary page: [[src-spinoza-ethics-p2]]
 - Secondary source used: Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide*
@@ -253,3 +259,39 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - New pages: [[figure-yellow-emperor]]
 - Pages updated: [[figure-yu-the-great]] (warrior aspects: Fang-feng, Hsiang Liu, Wu-chih-ch'i/Sun Wukong; Nine Cauldrons; world measuring), [[figure-yi-archer]] (Wu Kang on the moon; the moon's full cast of immortality-seekers)
 - Most interesting new details: Wu-chih-ch'i — the chained ape monster who caused typhoons on the Huai River — is Sun Wukong's direct ancestor, six centuries before Journey to the West. The Yellow Emperor's mythology is a textbook case of progressive domestication: from beast-armies and killed gods to Chuang Tzu's sock puppet who learns wisdom from Taoists. And the moon in Chinese mythology is populated entirely by people who wanted to live forever and got trapped there.
+
+## [2026-04-18] ingest | Spinoza, *Ethics* Parts IV–V (Human Bondage; Human Freedom)
+- Summary pages: [[src-spinoza-ethics-p4]], [[src-spinoza-ethics-p5]]
+- Secondary source used throughout: Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide*
+- Pages updated: [[figure-spinoza]] (added full See Also section), [[src-spinoza-ethics-p3]] (fixed forward link to P4), [[index]]
+- Most interesting details (Part IV): Virtue = power, not piety — D8 is the pivot of Spinoza's entire ethics. "When each man most seeks his own advantage, men are most useful to one another" (P35C2) — the seeming paradox that genuine self-interest and altruism are the same thing. Spinoza's attack on Calvinist despondency: joy is ethically good; laughter, music, theater, and pleasure are a wise person's tools. "A free man thinks of nothing less than of death, and his wisdom is a meditation not of death but of life" (P67) — the direct inversion of Stoic meditatio mortis. Free will is a legal fiction, needed for punishment, but not real. The state is a machine for managing affects through stronger affects (fear).
+- Most interesting details (Part V): The method of liberation — separate the affect from the image of its cause; form an adequate idea of the remaining bodily change; the passion dissolves into active joy. Understanding that all things are necessary is the greatest therapeutic tool: it dissolves resentment, envy, blame, and a certain kind of fear. The intellectual love of God (P32C): joy + adequate idea of God as cause, eternal, incapable of frustration, identical with God's love of himself. The final proposition (P42): "Blessedness is not the reward of virtue, but virtue itself" — the entire inversion of Christian moral psychology in one sentence. The last line on the wise person: "he never ceases to be, but always possesses true acquiescence of his spirit."
+- Note: This completes the full *Ethics* (Parts I–V). Beth Lord's guide used throughout as secondary commentary.
+
+## [2026-04-18] ingest | Hume, *An Enquiry Concerning the Principles of Morals* (1751)
+- Summary page: [[src-hume-epm]]
+- New pages: [[figure-hume]]
+- Pages updated: [[index]]
+- Most interesting details:
+  - The "monkish virtues" passage (Section IX) is Hume's most polemical: celibacy, fasting, penance, mortification, and humility are placed explicitly in the *vice* column because they serve no purpose, "stupefy the understanding and harden the heart." A philosophical attack on asceticism framed as a matter of simple observation.
+  - The "sensible knave" problem (Section IX Part II): Hume openly admits he cannot fully refute the clever person who violates justice whenever they can do so secretly and profitably. His answer — they sacrifice "inward peace of mind" for "worthless toys and gewgaws" — is incomplete, and he knows it.
+  - The vault vs. wall analogy (Appendix III): benevolence builds like a wall (each stone of kindness adds to the total); justice builds like a vault (every stone collapses without the whole). One of the clearest philosophical distinctions in the book.
+  - The Oedipus/Nero contrast (Appendix I): both stand in formally similar relations to their victims, but Oedipus's act was a factual mistake, Nero's a moral one. Morality cannot consist in relations; it consists in the sentiment of disapprobation.
+  - The "particle of the dove" concession: Hume doesn't need to win the self-love debate. Even a tiny residue of genuine sympathy — "some particle of the dove kneaded into our frame, along with the elements of the wolf and serpent" — is sufficient, because it is common to all and universal in scope.
+  - Hume died peacefully in 1776, calmly refusing religious consolation. James Boswell visited hoping to find deathbed panic; found none. Edinburgh clergy were appalled. His death was as philosophically provocative as his writing.
+
+## [2026-04-18] ingest | Hegel, *Phenomenology of Spirit* — Preface and Introduction (§§1–89)
+- Summary page: [[src-hegel-phenom-preface-intro]]
+- New pages: [[figure-hegel]]
+- Secondary source used throughout: Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason* (Cambridge, 1994)
+- Translation: A.V. Miller (Oxford, 1977)
+- Pages updated: [[index]]
+- Most interesting details:
+  - "The night in which all cows are black" (§16) — Hegel's famous attack on Schelling's absolute identity: saying "in the Absolute, everything is one" sounds profound but destroys all determinacy. The paragraph is barely veiled; Schelling never forgave it.
+  - "The True is the whole" (§20) — but the whole is *only* the result together with the entire process of becoming; the result alone is "the corpse which has left the guiding tendency behind it."
+  - The Bacchanalian revel (§47): "Truth is thus the Bacchanalian revel in which no member is not drunk; yet because each member collapses as soon as he drops out, the revel is just as much transparent and simple repose." One of the most vivid images in all of Hegel.
+  - Determinate negation (§79) — the most technically important concept of the Introduction. When a form of consciousness fails, it collapses into the specific nothingness *of that form*, not into nothingness in general. This specificity points toward the next form and drives the dialectic forward.
+  - "Behind the back of consciousness" (§87) — the transition to each new form happens necessarily, but consciousness doesn't see it coming; we (the philosophical observers) see the necessity that the consciousness undergoing it does not.
+  - Thesis-antithesis-synthesis is NOT Hegel — Hegel himself dismisses this triadic schema as "a lifeless schema." Pinkard confirms it was invented by popularizers (traced to Fichte).
+  - Pinkard's key reframe: Spirit (*Geist*) is not a metaphysical entity but a *relation* — the shared social space of reason-giving among persons. The Phenomenology is a dialectical history of European *Geist*, not a map of a pre-existing spiritual reality.
+- Note: Text covers §§1–89 (Preface complete, Introduction complete). Next section: A. Consciousness (§§90–165), then B. Self-Consciousness including Master/Slave (§§166–230).

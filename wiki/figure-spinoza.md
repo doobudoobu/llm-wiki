@@ -56,5 +56,9 @@ He is also, in a quiet way, one of the first thinkers to argue that human beings
 
 ## See also
 
-- [[src-spinoza-ethics-p1]] — Part I of the *Ethics*: God, substance, the argument from definitions
+- [[src-spinoza-ethics-p1]] — Part I: God, substance, modes, the argument from definitions
+- [[src-spinoza-ethics-p2]] — Part II: mind = idea of body; parallelism; three kinds of knowledge
+- [[src-spinoza-ethics-p3]] — Part III: conatus; the three primary affects; waves on the sea
+- [[src-spinoza-ethics-p4]] — Part IV: virtue = power; ethics of joy; the free man
+- [[src-spinoza-ethics-p5]] — Part V: intellectual love of God; eternity; blessedness as virtue itself
 - [[concept-spinoza-ontology]] — substance, attributes, modes, and God as Nature

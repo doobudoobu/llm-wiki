@@ -147,12 +147,19 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 |------|---------|
 | [[src-spinoza-ethics-p1]] | Spinoza, *Ethics* Part I: one substance = God = Nature; substance/attribute/mode; why teleology is the error of errors |
 | [[src-spinoza-ethics-p2]] | Spinoza, *Ethics* Part II: mind = idea of body; parallelism; three kinds of knowledge; will = understanding; sub specie aeternitatis |
+| [[src-spinoza-ethics-p3]] | Spinoza, *Ethics* Part III: conatus; three primary affects (joy/sadness/desire); love and hate; emotional contagion; ethnic hatred; waves on the sea |
+| [[src-spinoza-ethics-p4]] | Spinoza, *Ethics* Part IV: virtue = power; good = what's truly useful; self-preservation as the only foundation; ethics of joy; the free man meditates on life not death |
+| [[src-spinoza-ethics-p5]] | Spinoza, *Ethics* Part V: freeing from affects by forming adequate ideas; intellectual love of God; eternity of the mind; blessedness is not virtue's reward but virtue itself |
+| [[src-hume-epm]] | Hume, *An Enquiry Concerning the Principles of Morals*: utility + sympathy; justice as artificial virtue; monkish vices; the sensible knave; sentiment over reason |
+| [[src-hegel-phenom-preface-intro]] | Hegel, *Phenomenology of Spirit* — Preface + Introduction: the True as Subject; the night of all cows; labour of the negative; determinate negation; the way of despair |
 
 ### Thinkers
 
 | Page | Summary |
 |------|---------|
 | [[figure-spinoza]] | Baruch Spinoza (1632–1677): pantheist, determinist; excommunicated at 23; "God or Nature" |
+| [[figure-hume]] | David Hume (1711–1776): empiricist, skeptic; moral sentimentalism; awakened Kant; peaceful deathbed that horrified the clergy |
+| [[figure-hegel]] | G.W.F. Hegel (1770–1831): absolute idealist; Spirit; dialectic; history as the life of mind; Marx, Kierkegaard, and existentialism all post-Hegelian |
 
 ### Concepts
 
