@@ -35,7 +35,11 @@
       "Bash(awk 'NR>=664 && NR<=859')",
       "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/[Beth_Lord]_Spinoza_'s_Ethics.pdf\" -)",
       "Bash(awk 'NR>=680 && NR<=1379')",
-      "Bash(awk 'NR>=1936 && NR<=3265')"
+      "Bash(awk 'NR>=1936 && NR<=3265')",
+      "Bash(pdftotext raw/lord-guide.pdf -)",
+      "Bash(awk 'NR>=1 && NR<=50')",
+      "Bash(pdftotext \"raw/[Beth_Lord]_Spinoza_'s_Ethics.pdf\" -)",
+      "Bash(awk 'NR>=3266 && NR<=4100')"
     ]
   }
 }

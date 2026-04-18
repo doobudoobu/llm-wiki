@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept-neo-confucianism.md",
+                "file": "figure-liu-bang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concept-neo-confucianism"
+              "title": "figure-liu-bang"
             }
           }
         ]
@@ -199,24 +199,28 @@
   },
   "active": "bcc904f029a8d825",
   "lastOpenFiles": [
+    "src-spinoza-ethics-p3.md",
+    "concept-chinese-mythology.md",
+    "concept-spinoza-ontology.md",
+    "src-spinoza-ethics-p1.md",
+    "figure-liu-bang.md",
+    "figure-spinoza.md",
+    "log.md.tmp.4361.1776533438333",
+    "concept-neo-confucianism.md",
+    "index.md.tmp.4361.1776533411969",
+    "src-spinoza-ethics-p2.md",
+    "src-spinoza-ethics-p2.md.tmp.4361.1776533404837",
     "log.md.tmp.4361.1776533068685",
     "index.md.tmp.4361.1776533058477",
-    "src-spinoza-ethics-p1.md",
     "src-spinoza-ethics-p1.md.tmp.4361.1776533051864",
-    "figure-spinoza.md",
     "figure-spinoza.md.tmp.4361.1776532959572",
     "log.md.tmp.4361.1776532759190",
     "index.md.tmp.4361.1776532752148",
     "index.md.tmp.4361.1776532744979",
-    "index.md.tmp.4361.1776532739042",
     "Clippings/Untitled.md",
     "Clippings/spinoza ethics.md",
-    "concept-neo-confucianism.md",
-    "Clippings",
     "concept-tea-culture.md",
     "concept-xiongnu.md",
-    "index.md.tmp.30398.1776472857002",
-    "concept-tea-culture.md.tmp.30398.1776472848445",
     "src-tea-ch6-8.md",
     "src-tea-ch3-5.md",
     "src-keay-china-ch7-9.md",
@@ -226,14 +230,10 @@
     "concept-fengjian.md",
     "log.md",
     "concept-erlitou.md",
-    "concept-chinese-mythology.md",
-    "figure-liu-bang.md",
     "figure-yi-archer.md",
     "figure-yu-the-great.md",
     "figure-pan-ku.md",
     "src-keay-china-ch1-3.md",
-    "figure-nu-kua.md",
-    "concept-oracle-bones.md",
-    "index.md"
+    "figure-nu-kua.md"
   ]
 }

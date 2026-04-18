@@ -242,6 +242,12 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - Pages updated: [[figure-nu-kua]] (Han-era demotion: silent achievement, Karlgren/Schafer, Fu Hsi consort pairing), [[index]]
 - Most interesting new details: The original *Classic of Poetry* Weaver Maid poem has zero romantic content — both Weaver Maid and Draught Ox are images of futile, unfinished labor. Six hundred years of romantic elaboration on top of a poem about uselessness. The Queen Mother of the West begins with tiger fangs and panther tail administering divine executions; she ends pouring wine at a garden party. The silkworm myth: a girl breaks a promise to her horse, mocks its dead skin, and gets wrapped in it and transformed — the origin of the entire Chinese silk industry, and "mulberry" (*sang* 桑) puns on "mourning" (*sang* 喪). P'eng-tsu, the Chinese Methuselah, refuses to reveal his secret of 767-year-long life because longevity "has broken my good humor in my guts." He disappears heading west. Last seen seventy years later.
 
+## [2026-04-18] ingest | Spinoza, *Ethics* Part II (On the Nature and Origin of the Mind)
+- Summary page: [[src-spinoza-ethics-p2]]
+- Secondary source used: Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide*
+- Pages updated: [[index]]
+- Most interesting details: Parallelism (P7) dissolves the Cartesian mind-body problem by showing mind and body are not two things to begin with — they are one mode expressed through two attributes. Two causal chains (physical things causing physical things; ideas causing ideas) run in perfect parallel and never cross. Everything has a mind — stones, sewing machines, rivers — the difference from human minds is only complexity. Memory is not an archive but a bodily habit: the soldier and the farmer see the same horse-tracks and think completely different things. "Truth is its own standard" — knowing something truly is knowing you know it. The three kinds of knowledge: imagination (habit, experience, hearsay — only source of error), reason (common notions — necessarily true), intuition (grasps essence directly, sub specie aeternitatis — treated fully in Part V). Will and understanding are the same thing — there is no separate faculty of assent standing above the ideas.
+
 ## [2026-04-18] ingest | Birrell, *Chinese Mythology* — Chapters 6–8 (Yellow Emperor, Yi Archer cycle, Yü the Great cycle)
 - Summary page: [[src-birrell-ch6-8]]
 - New pages: [[figure-yellow-emperor]]

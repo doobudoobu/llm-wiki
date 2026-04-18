@@ -146,6 +146,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | Page | Summary |
 |------|---------|
 | [[src-spinoza-ethics-p1]] | Spinoza, *Ethics* Part I: one substance = God = Nature; substance/attribute/mode; why teleology is the error of errors |
+| [[src-spinoza-ethics-p2]] | Spinoza, *Ethics* Part II: mind = idea of body; parallelism; three kinds of knowledge; will = understanding; sub specie aeternitatis |
 
 ### Thinkers
 
