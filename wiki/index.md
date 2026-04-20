@@ -135,7 +135,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 
 | Page | Summary | Date |
 |------|---------|------|
-| *(none yet)* | | |
+| [[analysis-legitimacy-spirit]] | Cross-domain: Hegel's Spirit, Mandate of Heaven, Plato's constitutional cycles, Ibn Khaldun's *asabiyya*, Daoist *de* — five theories of why legitimate authority collapses from within | 2026-04-20 |
 
 ---
 
@@ -178,6 +178,7 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | Page | Summary | Date |
 |------|---------|------|
 | [[compare-moral-philosophy]] | Moral philosophy — Spinoza, Hume, Hegel (and future thinkers): foundations, reason vs. sentiment, freedom, politics, fault lines | 2026-04-18 |
+| [[analysis-legitimacy-spirit]] | Cross-domain: Hegel's Spirit, Mandate of Heaven, Plato, Ibn Khaldun, Daoist *de* — five theories of why legitimate authority collapses from within | 2026-04-20 |
 
 ---
 

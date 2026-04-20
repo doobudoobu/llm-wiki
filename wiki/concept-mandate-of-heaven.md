@@ -128,3 +128,4 @@ The Mandate of Heaven remained the operational language of Chinese political leg
 - [[figure-confucius]] — who deepened the doctrine's ethical content
 - [[dynasty-qin]] — who rejected it, briefly triumphed, and then became its most famous cautionary tale
 - [[dynasty-shang]] — whose fall the doctrine was invented to explain
+- [[analysis-legitimacy-spirit]] — cross-domain comparison: Mandate of Heaven alongside Hegel's Spirit, Plato's constitutional cycles, Ibn Khaldun's *asabiyya*, and Daoist *de*

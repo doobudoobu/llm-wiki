@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline-china.md",
+                "file": "analysis-legitimacy-spirit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline-china"
+              "title": "analysis-legitimacy-spirit"
             }
           }
         ]
@@ -200,6 +200,8 @@
   "active": "bcc904f029a8d825",
   "lastOpenFiles": [
     "compare-moral-philosophy.md",
+    "concept-mandate-of-heaven.md",
+    "timeline-china.md",
     "timeline.md",
     "index.md.tmp.19681.1776549479488",
     "index.md.tmp.19681.1776549470891",
@@ -232,8 +234,6 @@
     "src-spinoza-ethics-p2.md",
     "Clippings/Untitled.md",
     "Clippings/spinoza ethics.md",
-    "concept-xiongnu.md",
-    "src-tea-ch6-8.md",
-    "src-tea-ch3-5.md"
+    "concept-xiongnu.md"
   ]
 }

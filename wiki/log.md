@@ -358,3 +358,16 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
   - Biographical subtext: the Regine Olsen engagement broken 1841 without explanation; the book is widely read as Kierkegaard's meditation on the divine command he could not justify
   - The Epilogue's anti-Hegelian punch: no generation "goes further" than faith; the disciple who "improved" Heraclitus destroyed him
   - Kierkegaard as the post-Hegelian individualist, vs. Marx as the post-Hegelian materialist: the two directions Hegel's successors went
+
+---
+
+## [2026-04-20] analysis | When Spirit Leaves: Theories of Legitimate Authority and Its Collapse
+
+- New page: [[analysis-legitimacy-spirit]]
+- Pages updated: [[concept-mandate-of-heaven]], [[concept-sittlichkeit]], [[index]]
+- Cross-domain: philosophy (Hegel, Plato) × Chinese history (Mandate, Daoism) × Islamic thought (Ibn Khaldun)
+- Core structural parallel: all four frameworks share the claim that legitimate authority is constituted by an internal principle, and collapse happens when that principle is lost — not when the form is overwhelmed from outside
+- Key divergences: Hegel is developmental (each collapse is progress); Mandate is retributive (collapse is moral punishment); Plato is descendent (collapse is degradation); Ibn Khaldun is mechanistic/secular (collapse is sociological cycle with no cosmic significance)
+- Daoist *de* as counterpoint: rule through alignment with nature rather than moral performance; the harder the ruler performs virtue, the further from *de* — almost opposite to the Mandate's logic
+- Shared gap: all four explain decay well; none fully explains where new legitimacy is generated
+- The most interesting divergence: Hegel's "the old form was right for its time, its fall doesn't delegitimate it" vs. the Mandate's retroactive condemnation of fallen dynasties as always-already corrupt

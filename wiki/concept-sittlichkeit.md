@@ -135,3 +135,4 @@ This is philosophically defensible. It also means that *Sittlichkeit*, as Hegel 
 - [[compare-moral-philosophy]] — comparison with Spinoza and Hume
 - [[concept-mandate-of-heaven]] — cross-domain parallel
 - [[concept-neo-confucianism]] — Confucian *Sittlichkeit*
+- [[analysis-legitimacy-spirit]] — extended cross-domain comparison: Spirit alongside Mandate, Plato, Ibn Khaldun, Daoist *de*
