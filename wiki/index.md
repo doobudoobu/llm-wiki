@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 type: index
-updated: 2026-04-18
+updated: 2026-04-20
 ---
 
 # Wiki Index
@@ -154,6 +154,8 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[src-hume-epm]] | Hume, *An Enquiry Concerning the Principles of Morals*: utility + sympathy; justice as artificial virtue; monkish vices; the sensible knave; sentiment over reason |
 | [[src-hegel-phenom-preface-intro]] | Hegel, *Phenomenology of Spirit* — Preface + Introduction: the True as Subject; the night of all cows; labour of the negative; determinate negation; the way of despair |
 | [[src-hegel-phenom-consciousness-selfconsciousness]] | Hegel, *Phenomenology of Spirit* — Consciousness + Self-Consciousness: Sense-Certainty; Perception; Force/Understanding; "I that is We"; Lordship and Bondage; Stoicism; Skepticism; Unhappy Consciousness |
+| [[src-hegel-right]] | Hegel, *Philosophy of Right* — full text: Abstract Right, Morality, Ethical Life (*Sittlichkeit*), the poverty problem, the state as "march of God in the world," World-History |
+| [[src-fear-trembling]] | Kierkegaard, *Fear and Trembling* + *Critical Guide* — the Akedah, knight of infinite resignation vs. knight of faith, the three Problemata, teleological suspension of the ethical, faith as the highest passion |
 
 ### Thinkers
 
@@ -162,12 +164,14 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[figure-spinoza]] | Baruch Spinoza (1632–1677): pantheist, determinist; excommunicated at 23; "God or Nature" |
 | [[figure-hume]] | David Hume (1711–1776): empiricist, skeptic; moral sentimentalism; awakened Kant; peaceful deathbed that horrified the clergy |
 | [[figure-hegel]] | G.W.F. Hegel (1770–1831): absolute idealist; Spirit; dialectic; history as the life of mind; Marx, Kierkegaard, and existentialism all post-Hegelian |
+| [[figure-kierkegaard]] | Søren Kierkegaard (1813–1855): first existentialist; three spheres of existence; single individual vs. Hegel's system; faith as highest passion; anxiety as dizziness of freedom |
 
 ### Concepts
 
 | Page | Summary |
 |------|---------|
 | [[concept-spinoza-ontology]] | Spinoza's substance/attribute/mode framework; God = Nature; determinism; *natura naturans* / *natura naturata* |
+| [[concept-sittlichkeit]] | Hegel's *Sittlichkeit* (Ethical Life): the institutional embedding of freedom in family, civil society, and state; critique of Kantian *Moralität*; the Antigone model; cross-domain links to Mandate of Heaven and Neo-Confucianism |
 
 ### Analyses & Comparisons
 

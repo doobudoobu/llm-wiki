@@ -3,7 +3,7 @@ title: "Moral Philosophy: Comparative Overview"
 type: comparison
 domain: philosophy
 tags: [ethics, moral-philosophy, spinoza, hume, hegel, virtue, reason, sentiment, freedom, society, comparison]
-updated: 2026-04-18
+updated: 2026-04-20
 ---
 
 # Moral Philosophy: Comparative Overview
@@ -166,6 +166,7 @@ Despite their disagreements, these three thinkers share some important conclusio
 | Thinker | Key works | Relation to current three |
 |---------|-----------|--------------------------|
 | Kant | *Groundwork* (1785), *Critique of Practical Reason* (1788) | Hegel's primary critical target; the formalism Spinoza and Hume both resist |
+| Kierkegaard | *Fear and Trembling* (1843), *Concluding Unscientific Postscript* (1846) | Anti-Hegelian; the single individual; faith as higher than the ethical; subjectivity is truth. See [[src-fear-trembling]], [[figure-kierkegaard]] |
 | Nietzsche | *Beyond Good and Evil* (1886), *Genealogy of Morals* (1887) | Explicitly credits Spinoza; radicalizes the critique of slave morality |
 | Marx | *1844 Manuscripts*, *Capital* | Hegelian framework applied to material conditions; alienation as the key moral concept |
 | Mill | *Utilitarianism* (1863) | Hume's heir on utility; but systematizes it in ways Hume would distrust |
@@ -178,5 +179,5 @@ Despite their disagreements, these three thinkers share some important conclusio
 
 - [[figure-spinoza]] · [[src-spinoza-ethics-p3]] · [[src-spinoza-ethics-p4]] · [[src-spinoza-ethics-p5]]
 - [[figure-hume]] · [[src-hume-epm]]
-- [[figure-hegel]] · [[src-hegel-phenom-consciousness-selfconsciousness]]
+- [[figure-hegel]] · [[src-hegel-phenom-consciousness-selfconsciousness]] · [[src-hegel-right]] · [[concept-sittlichkeit]]
 - [[concept-spinoza-ontology]] — the metaphysical foundation of Spinoza's ethics

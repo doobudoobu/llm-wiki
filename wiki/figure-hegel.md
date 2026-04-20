@@ -4,7 +4,7 @@ type: figure
 domain: philosophy
 tags: [hegel, german-idealism, phenomenology, spirit, geist, dialectic, history, 19th-century, german, idealism]
 period: "1770–1831"
-updated: 2026-04-18
+updated: 2026-04-20
 ---
 
 # G.W.F. Hegel (1770–1831)
@@ -76,8 +76,25 @@ Hegel's move was different from both: rather than eliminating the problem by col
 
 ---
 
+## The *Philosophy of Right* in brief
+
+The *Philosophy of Right* (1820) is the culmination of Hegel's practical philosophy — where his metaphysics of Spirit hits the ground of actual institutions. Its central claim: **freedom is not an inner condition but a social achievement**, realized only in the concrete institutions of family, civil society, and the rational state.
+
+The book's movement is a sustained critique of liberalism. Individual rights (Abstract Right) turn out to be unstable without internalized morality; individual conscience (*Moralität* — Kant's domain) turns out to be empty and potentially dangerous without external ethical content; only **Ethical Life** (*Sittlichkeit*) — the actual customs, laws, and practices of a community — gives freedom a genuine home.
+
+The most powerful moment is the **poverty problem** (§244): civil society structurally generates a "rabble" (*Pöbel*) — people so degraded by poverty that they lose the sense of right on which political life depends. Hegel admits he cannot solve this. He floats colonies. Nothing works. Marx read this section and drew his conclusions.
+
+The most scandalous moment: **"The state is the march of God in the world"** — not statism but the claim that the rational state is the concrete form of Spirit's self-knowledge as free. The infamous preface line — "the actual is rational; the rational is actual" — immediately split his followers into Left Hegelians (who read it as a call to make reality rational) and Right Hegelians (who read it as endorsing the existing Prussian monarchy).
+
+See [[src-hegel-right]] for full treatment.
+
+---
+
 ## See also
 
 - [[src-hegel-phenom-preface-intro]] — Preface and Introduction: the True as Subject, the night of all cows, the way of despair
+- [[src-hegel-phenom-consciousness-selfconsciousness]] — Consciousness and Self-Consciousness: the recognition argument
+- [[src-hegel-right]] — *Philosophy of Right*: full source summary
+- [[concept-sittlichkeit]] — Ethical Life: family, civil society, the state
 - [[figure-spinoza]] — Spinoza's Substance: Hegel's explicit foil and starting point
 - [[figure-hume]] — Hume's empiricism: the other tradition Hegel argues against

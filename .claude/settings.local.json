@@ -47,7 +47,29 @@
       "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\" /tmp/pinkard.txt)",
       "Bash(pdfinfo \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\")",
       "Bash(pdftotext -r 300 \"/home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf\" /tmp/pinkard.txt)",
-      "Bash(grep -n \"INTRODUCTION\\\\|^INTRODUCTION\\\\|Introduction$\" \"/home/doob/Documents/llm-wiki/raw/Full text of _Phenomenology Of Spirit G W F Hegel_.md\")"
+      "Bash(grep -n \"INTRODUCTION\\\\|^INTRODUCTION\\\\|Introduction$\" \"/home/doob/Documents/llm-wiki/raw/Full text of _Phenomenology Of Spirit G W F Hegel_.md\")",
+      "Bash(pdftotext /home/doob/Documents/llm-wiki/raw/hegel_right.pdf -)",
+      "Bash(awk 'NR>=523 && NR<=1530')",
+      "Bash(awk 'NR>=1532 && NR<=2000')",
+      "Bash(awk 'NR>=3044 && NR<=4305')",
+      "Bash(awk 'NR>=4305 && NR<=5500')",
+      "Bash(awk 'NR>=6500 && NR<=7800')",
+      "Bash(awk 'NR>=8500 && NR<=9337')",
+      "Bash(awk 'NR>=8800 && NR<=9337')",
+      "Bash(awk 'NR>=9000 && NR<=9337')",
+      "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/fearandtrembling.pdf\" -)",
+      "Bash(pdftotext \"/home/doob/Documents/llm-wiki/raw/Kierkegaard's Fear and Trembling A Critical Guide.pdf\" -)",
+      "Bash(grep -n \"^Fear and Trembling\\\\|^Foreword$\\\\|^Prelude$\\\\|^Tribute to Abraham\\\\|^Problemata$\\\\|^Preliminary Expectoration\\\\|^Problema I$\\\\|^Problema II$\\\\|^Problema III$\\\\|^Epilogue$\")",
+      "Bash(awk 'NR>=480 && NR<=770')",
+      "Bash(grep -n \"^PRELUDE\\\\|^FOREWORD\\\\|^TRIBUTE\\\\|^PROBLEMA\\\\|^EPILOGUE\\\\|^Foreword$\\\\|^Prelude$\\\\|^Tribute\")",
+      "Bash(awk 'NR>=760 && NR<=1000')",
+      "Bash(awk 'NR>=932 && NR<=1615')",
+      "Bash(awk 'NR>=1615 && NR<=2832')",
+      "Bash(awk 'NR>=2832 && NR<=4130')",
+      "Bash(awk 'NR>=4130 && NR<=5500')",
+      "Bash(awk 'NR>=5500 && NR<=6500')",
+      "Bash(awk 'NR>=5770 && NR<=5900')",
+      "Bash(awk 'NR>=200 && NR<=600')"
     ]
   }
 }

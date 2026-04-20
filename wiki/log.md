@@ -323,3 +323,38 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - Pages updated: [[index]]
 - concept-spinoza-ontology: fills the long-standing stub; covers substance/attribute/mode framework, *Deus sive Natura*, necessity and determinism, *natura naturans* / *natura naturata*, and why the ontology is load-bearing for the rest of the Ethics
 - compare-moral-philosophy: living comparison page for moral philosophers; currently Spinoza + Hume + Hegel; structured for future expansion (Kant, Nietzsche, Marx, Mill, etc.); covers quick-reference table, thinker summaries, five fault lines (reason and motivation, nature vs. history, self-interest, emotion, political freedom), shared agreements across all three
+
+---
+
+## [2026-04-20] ingest | Hegel, Philosophy of Right (full text)
+
+- Summary page: [[src-hegel-right]]
+- New pages: [[concept-sittlichkeit]]
+- Pages updated: [[figure-hegel]], [[compare-moral-philosophy]], [[index]]
+- Most interesting new details:
+  - The book's architecture *is* the argument: Abstract Right → Morality → Ethical Life is a sequence of corrections, each stage exposing the instability of the last; pure individual rights need internalized morality; pure conscience needs institutional grounding
+  - The poverty/rabble problem (§244): Hegel sees that civil society structurally generates poverty and the degradation of the poor into a "rabble" (*Pöbel*) who lose their sense of right — and admits he cannot solve it; he floats colonies; nothing works; this is the crack Marx walked through
+  - "The state is the march of God in the world" — not statism but the claim that the rational state is the concrete form of Spirit's self-knowledge as free; freedom is social, not inner
+  - The preface scandal: attack on Fries by name (reads as political denunciation in the context of post-Carlsbad repression); "the actual is rational" immediately split followers into Left and Right Hegelians
+  - The method contradicts the conclusion: the dialectic is a logic of perpetual negation, but the book seems to conclude in constitutional monarchy — Marx read this as Hegel standing on his head
+  - Antigone as the paradigm of *Sittlichkeit*: she doesn't deliberate, she simply *knows*, the way she knows the grammar of Greek; moral anguish is a symptom of ethical breakdown
+  - War: Hegel defends it as ethically necessary — not as good in itself but as the moment that demonstrates the state is more than a service provider for private satisfactions; nations stagnate without the possibility of war
+  - Cross-domain connections: *Sittlichkeit* ↔ Mandate of Heaven (Spirit's self-withdrawal from failed institutions); *Sittlichkeit* ↔ Neo-Confucianism (the most successful pre-modern *Sittlichkeit* construction)
+
+---
+
+## [2026-04-20] ingest | Kierkegaard, Fear and Trembling + Critical Guide
+
+- Summary page: [[src-fear-trembling]]
+- New pages: [[figure-kierkegaard]]
+- Pages updated: [[compare-moral-philosophy]], [[index]]
+- Sources: Hackett translation (Jech, 2024) + Cambridge Critical Guide (Conway, ed., 2015)
+- Most interesting new details:
+  - The narrator Johannes de Silentio *cannot make the movement of faith* — the book is written from the outside of its own subject; this is structural, not ironic
+  - The four Prelude variations on the Akedah: each showing how the story could have gone wrong, setting up why the actual version is exactly as it is and not otherwise
+  - Knight of infinite resignation vs. knight of faith: the first makes the great tragic renunciation; the second does this *and* believes in the finite return by virtue of the absurd — looks like a tax collector, expects roast beef for dinner
+  - Problema I: teleological suspension of the ethical — Abraham is either a knight of faith or a murderer; the tragic hero (Agamemnon) stays inside the ethical; Abraham doesn't serve any universal
+  - Problema III: Abraham's silence is not a psychological failure but structurally constitutive of the religious stage — speaking would either make it universal (which it can't be) or display pure vanity
+  - Biographical subtext: the Regine Olsen engagement broken 1841 without explanation; the book is widely read as Kierkegaard's meditation on the divine command he could not justify
+  - The Epilogue's anti-Hegelian punch: no generation "goes further" than faith; the disciple who "improved" Heraclitus destroyed him
+  - Kierkegaard as the post-Hegelian individualist, vs. Marx as the post-Hegelian materialist: the two directions Hegel's successors went
