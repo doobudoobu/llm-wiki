@@ -69,7 +69,14 @@
       "Bash(awk 'NR>=4130 && NR<=5500')",
       "Bash(awk 'NR>=5500 && NR<=6500')",
       "Bash(awk 'NR>=5770 && NR<=5900')",
-      "Bash(awk 'NR>=200 && NR<=600')"
+      "Bash(awk 'NR>=200 && NR<=600')",
+      "Bash(pdftotext /home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf -)",
+      "Bash(pdfinfo *)",
+      "Bash(pdftotext -layout /home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf -)",
+      "Bash(pdftotext -f 1 -l 10 /home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf /tmp/pinkard_sample.txt)",
+      "Bash(pdftotext -f 1 -l 5 /home/doob/Documents/llm-wiki/raw/terry-pinkard-hegels-phenomenology-the-sociality-of-reason.pdf /tmp/pinkard5.txt)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(grep *)"
     ]
   }
 }

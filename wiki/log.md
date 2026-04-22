@@ -371,3 +371,36 @@ Parse with: `grep "^## \[" wiki/log.md | tail -10`
 - Daoist *de* as counterpoint: rule through alignment with nature rather than moral performance; the harder the ruler performs virtue, the further from *de* — almost opposite to the Mandate's logic
 - Shared gap: all four explain decay well; none fully explains where new legitimacy is generated
 - The most interesting divergence: Hegel's "the old form was right for its time, its fall doesn't delegitimate it" vs. the Mandate's retroactive condemnation of fallen dynasties as always-already corrupt
+
+## [2026-04-22] ingest | Hegel, *Phenomenology of Spirit* — Reason, Spirit, Religion, Absolute Knowing (§§231–808)
+
+- Source: `raw/Full text of _Phenomenology Of Spirit G W F Hegel_.md` (lines 8077–24601)
+- Secondary guide: Findlay's Foreword (lines 1–1323) — Pinkard PDF remained unreadable (scanned image)
+- Pages created: [[src-hegel-phenom-reason-to-absolute]]
+- Pages updated: [[src-hegel-phenom-consciousness-selfconsciousness]] (updated See Also), [[figure-hegel]] (added Religion and Absolute Knowing section), [[index]]
+- Most interesting new details:
+  - The Antigone analysis: guilt is not a moral failing but an *ontological* feature of action — both Creon and Antigone are right, both are destroyed
+  - Rameau's Nephew: "the disrupted consciousness which in its own self knows itself as disrupted" — nihilistic self-knowledge as the dark face of Spirit
+  - Enlightenment spreads "like a perfume" then "bang! the idol lies on the floor" — the most vivid description of cultural contagion in 19th-century philosophy
+  - The French Revolution as Absolute Freedom: "the fury of destruction... like cutting off a head of cabbage"
+  - Natural Religion: the Sphinx as "conscious wrestling with the non-conscious... a riddle to itself... the language of a profound but scarcely intelligible wisdom"
+  - The elegy for Greece: "beautiful fruit already picked from the tree, which a friendly Fate has offered us, as a girl might set the fruit before us"
+  - Religion's limit: the community has the right content but projects it onto a distant past (Christ's death) and distant future (Kingdom of God) instead of grasping it as present self-knowledge
+  - Absolute Knowing: "Spirit appears in Time just so long as it has not grasped its pure Notion" — time is the Notion not yet comprehended
+  - The final image: history as "the Calvary of absolute Spirit" — from the chalice of spirits foams forth His own infinitude (Schiller)
+
+## [2026-04-22] ingest | Pinkard, *Hegel's Phenomenology of Spirit: A Guide* (Oxford, 2023)
+
+- Source: `raw/Full text of _Terry Pinkard Hegel's Phenomenology Of Spirit A Guide_.md` (14,334 lines; paragraph-by-paragraph commentary on all 808 sections)
+- Pages created: [[src-pinkard-phenom-guide]]
+- Pages updated: [[src-hegel-phenom-reason-to-absolute]] (added "Pinkard's reading" section), [[src-hegel-phenom-consciousness-selfconsciousness]] (updated secondary guide reference + See Also), [[index]]
+- Most interesting interpretive additions from Pinkard:
+  - Geist = "self-conscious life" (not cosmic consciousness, not God) — a naturalistic reading
+  - Book structure: originally planned to end at "Virtue and the Way of the World"; Hegel expanded under the influence of Goethe's "Metamorphosis of Plants" to include the historical shapes of Spirit — the printer nearly quit
+  - Sittlichkeit = better translated "moral ethos" than "ethical life"; Greek version lasted only 67 years in its true form
+  - Don Giovanni (not just Faust) as the explicit model for "Pleasure and Necessity" — Hegel saw Mozart's opera in Frankfurt in 1797 and was deeply moved; Giovanni stage-manages recognition by matching his partner's musical key
+  - Antigone has THREE unconditional duties (bury brother; obey Creon; don't arrogate to herself the decision about which takes priority); her tragedy is also a demand for recognition as an equal — only brothers could recognize Greek women as equals
+  - Language is "the existence of spirit" (§507, §652): not a tool but the medium in which the self as a public entity exists
+  - The Terror is a phenomenological-logical argument, not a psychological or moral one; Pinkard adds that Robespierre's fall was contingent on the cessation of genuine external threats
+  - The final Schiller misquote is deliberate: "his own infinity" (*seine Unendlichkeit*) rather than bare "infinity" — Spirit's own infinity, not an abstract one
+  - The Phenomenology is "a far more 'existential' piece than Hegel was ever to write again"; Hegel admitted he had no idea what the Logic would look like when writing the letter to Niethammer

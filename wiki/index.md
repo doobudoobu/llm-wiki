@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 type: index
-updated: 2026-04-20
+updated: 2026-04-22
 ---
 
 # Wiki Index
@@ -154,6 +154,8 @@ Content catalog. Updated on every ingest. The LLM reads this first when answerin
 | [[src-hume-epm]] | Hume, *An Enquiry Concerning the Principles of Morals*: utility + sympathy; justice as artificial virtue; monkish vices; the sensible knave; sentiment over reason |
 | [[src-hegel-phenom-preface-intro]] | Hegel, *Phenomenology of Spirit* — Preface + Introduction: the True as Subject; the night of all cows; labour of the negative; determinate negation; the way of despair |
 | [[src-hegel-phenom-consciousness-selfconsciousness]] | Hegel, *Phenomenology of Spirit* — Consciousness + Self-Consciousness: Sense-Certainty; Perception; Force/Understanding; "I that is We"; Lordship and Bondage; Stoicism; Skepticism; Unhappy Consciousness |
+| [[src-hegel-phenom-reason-to-absolute]] | Hegel, *Phenomenology of Spirit* — Reason, Spirit, Religion, Absolute Knowing: phrenology; Antigone; Rameau's Nephew; Enlightenment; Terror; beautiful soul; Greek art-religion; Christianity; "God is dead"; history as Calvary |
+| [[src-pinkard-phenom-guide]] | Pinkard, *Hegel's Phenomenology of Spirit: A Guide* (Oxford, 2023): paragraph-by-paragraph commentary; Geist = self-conscious life; social recognition; Don Giovanni; Antigone's three duties; language as "existence of spirit"; the Terror as logical argument |
 | [[src-hegel-right]] | Hegel, *Philosophy of Right* — full text: Abstract Right, Morality, Ethical Life (*Sittlichkeit*), the poverty problem, the state as "march of God in the world," World-History |
 | [[src-fear-trembling]] | Kierkegaard, *Fear and Trembling* + *Critical Guide* — the Akedah, knight of infinite resignation vs. knight of faith, the three Problemata, teleological suspension of the ethical, faith as the highest passion |
 

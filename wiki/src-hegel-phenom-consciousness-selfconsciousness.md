@@ -4,14 +4,14 @@ type: source
 domain: philosophy
 tags: [hegel, phenomenology, german-idealism, consciousness, self-consciousness, lordship-bondage, master-slave, stoicism, skepticism, unhappy-consciousness, recognition, desire, spirit, dialectic, 19th-century]
 period: "1807"
-updated: 2026-04-18
+updated: 2026-04-22
 ---
 
 # Hegel, *Phenomenology of Spirit* — Consciousness and Self-Consciousness
 
 **Source:** *Phänomenologie des Geistes* (1807), §§90–230  
 **Translation:** A.V. Miller (Oxford, 1977)  
-**Secondary guide:** Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason* (Cambridge, 1994), Chapters 2–3  
+**Secondary guides:** Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason* (Cambridge, 1994), Chapters 2–3; Pinkard, *Hegel's Phenomenology of Spirit: A Guide* (Oxford, 2023), Chapters 3–5  
 **Coverage:** Section A (Consciousness: Sense-Certainty, Perception, Force and Understanding) and Section B (Self-Consciousness: Lordship and Bondage, Stoicism, Skepticism, Unhappy Consciousness)
 
 ---
@@ -227,7 +227,8 @@ The Unhappy Consciousness is the low point — consciousness fragmented, alienat
 
 - [[src-hegel-phenom-preface-intro]] — Preface and Introduction (§§1–89)
 - [[figure-hegel]] — Hegel's life, context, and intellectual tradition
-- [[src-hegel-phenom-spirit]] — Section VI: Spirit (§§438–671) *(future)*
+- [[src-hegel-phenom-reason-to-absolute]] — Sections C.AA–C.DD: Reason, Spirit, Religion, Absolute Knowing (§§231–808)
+- [[src-pinkard-phenom-guide]] — Pinkard's 2023 Oxford Guide: methodology, theses, key readings
 - [[src-spinoza-ethics-p1]] — Spinoza's Substance: Hegel's foil
 - [[src-spinoza-ethics-p3]] — Spinoza on conatus and desire
 - [[concept-neo-confucianism]] — Confucian self-cultivation and ritual formation
